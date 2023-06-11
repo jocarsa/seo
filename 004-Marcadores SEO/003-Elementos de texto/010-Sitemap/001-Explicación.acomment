@@ -1,0 +1,9 @@
+ A veces, los sitios web pueden estar formados a partir de cientos de páginas web, o en ocasiones, incluso de miles.
+
+Esto es especialmente cierto cuando el sitio web dispone de un blog, y dicho blog tiene una gran cantidad de entradas.
+
+Al igual que ocurre con el apartado anterior, si forzamos a una araña a que tenga que revisar de forma manual todas y cada una de las páginas de nuestro sitio web, estaremos haciendo trabajar más al motor de búsqueda, y por lo tanto no nos puntuará positivamente.
+
+Sí, por el contrario, introducimos un archivo XML llamado Saidman .xml, y dentro de ese archivo introducimos un listado correctamente formateado de todas las páginas que tiene nuestro sitio web, cuando la araña llega a nuestro sitio, en lugar de tener que revisar manualmente nuestra página web, simplemente tendrá que leer el listado de páginas incluido en ese archivo, que harán las veces de índice.
+
+De esa forma, estaremos simplificando la tarea del buscador, y a la vez, el buscador, nos lo premiará subiendo nuestra posición en los resultados de las búsquedas. 
