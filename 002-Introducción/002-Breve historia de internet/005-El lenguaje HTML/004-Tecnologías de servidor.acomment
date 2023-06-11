@@ -1,0 +1,5 @@
+ Las aplicaciones web actuales, en su gran mayoría, disponen de una parte que es la parte que ve el usuario, llamada parte frontal, o parte del cliente, y de una parte oculta, que es la que gestiona toda la información en remoto, llamada la parte del servidor, o trastienda.
+
+Si bien las tecnologías para crear páginas web en el lado del cliente están muy claras, y son, sencillamente, la mezcla de HTML, CSS, y JavaScript, en el lado del servidor, podemos utilizar una infinita variedad de lenguajes de programación para guardar los datos en servidores remotos, y almacenarlos en bases de datos conjuntas.
+
+Para el objetivo de esta publicación, que consiste en hablar de las técnicas de posicionamiento en buscadores, dichas técnicas , en una inmensa mayoría, trabajan el contenido existente en el lado del cliente, es decir, en HTML, en CSS, y en JavaScript, con lo cual, no se trata en profundidad el listado de las tecnologías del lado del servidor, ya que, en una gran mayoría, no tienen impacto sobre el posicionamiento de una web. 
