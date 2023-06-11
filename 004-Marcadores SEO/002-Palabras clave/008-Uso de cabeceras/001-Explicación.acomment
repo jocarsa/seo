@@ -1,0 +1,15 @@
+ Las cabeceras son un elemento imprescindible dentro del contenido visual de la página web.
+
+Si bien disponemos de otros dos marcadores anteriores, que son el título y la descripción, que son parte de la meta información de una página web, es decir, de la información que no ve directamente el usuario humano final, pero sí que el propio navegador y desde luego también el motor de búsqueda, las cabeceras, sin embargo, son parte de aquella información que tiene una representación gráfica en la página web.
+
+El estándar HTML propone seis etiquetas, en orden jerárquico, desde la número uno hasta el número seis, donde la número uno es la más importante, y la número seis es la menos importante.
+
+Desde el punto de vista de la construcción clásica de páginas web, siempre se ha recomendado que el título de nivel uno sea el propio título de la página web, el título de la de nivel dos sea la descripción, y a partir de ahí, el título de nivel tres está reservado para las cabeceras principales del contenido de la página principal, y así.
+
+Por lo tanto, este marcador se encarga de comprobar que hayamos utilizado las etiquetas, y que le enseñamos utilizado convenientemente.
+
+Idealmente, abre hemos utilizado una etiqueta de nivel 1, una etiqueta de nivel dos, unas pocas etiquetas de nivel tres, y probablemente muchos etiquetas de nivel cuatro.
+
+Si por ejemplo tenemos una página web que no tiene ninguna etiqueta de nivel uno, eso será considerado un fallo.
+
+O por ejemplo si tenemos una página web que tiene una gran cantidad de etiquetas H1, eso también se considera un fallo, porque no le estamos dejando claro el navegador web ni tampoco al buscador, cuál es el orden jerárquico correcto dentro de nuestra página web. 
