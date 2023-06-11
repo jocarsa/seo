@@ -1,0 +1,11 @@
+ El investigador, Tim Berners-Lee, junto a su equipo, durante su estancia en el instituto Ferna, en Suiza, dió lugar a un nuevo protocolo para compartir información en Internet, consistente en colecciones de documentos enlazados entre sí mediante hiper vínculos.
+
+Es decir, lo que hoy conocemos como la World Wide web.
+
+al crear este nuevo protocolo para la infraestructura de Internet, creo, junto a su equipo, tres componentes básicos, que son los siguientes:
+
+Por una parte, un servidor web, que se encargaría de alojar los documentos en Internet, estando accesible desde cualquier ubicación.
+
+A continuación, un cliente web, que es un software de escritorio instalado en los dispositivos de los clientes, que se podría conectar a uno o a varios servidores web, para solicitar uno o varios documentos escritos en este lenguaje y servidos a través de este protocolo.
+
+Y, por último, un lenguaje de marcas, basado en los lenguajes de marcas existentes a lo largo de los años 90, llamado HTML, con un conjunto muy básico de reglas de sintaxis, con el objetivo de permitir a cualquier usuario escribir sus propias páginas web. 
