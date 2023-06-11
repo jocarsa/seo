@@ -1,0 +1,13 @@
+ este es uno de los marcadores que se puede llegar a complicar en el caso de que estemos trabajando con WordPress.
+
+La premisa principal de WordPress consiste en que el usuario administrador o creador no tenga que editar código, pero, a la vez, esto puede ser una vez una ventaja en muchos escenarios, pero en este caso concreto, en muchas ocasiones, se convierte en una desventaja.
+
+Cuando trabajamos con Wordpress, la distribución del contenido en la etiqueta, título, en la descripción, y especialmente en los titulares de la web, depende, en gran medida, de la plantilla que visual, que ya hemos escogido dentro de Wordpress.
+
+Si la plantilla que hemos escogido no tiene correctamente distribuidas las cabeceras algo de la página web, en ese caso tenemos dos opciones:
+
+O bien podemos seleccionar una plantilla visual que refleje mejor la distribución de cabeceras, con lo traumático, que ello puede resultar, porque debemos escoger a la vez una plantilla que esté correctamente estructurada, pero también que estéticamente sea agradable
+
+O bien podemos modificar el código de la plantilla que hayamos seleccionado, con el objetivo de que podamos personalizar la distribución de cabeceras.
+
+Esto es desventajoso desde el punto de vista, mediante el cual perdemos la ventaja que consiste en utilizar, WordPress, consistente en no tener que escribir código, puesto que, de esta forma, finalmente, nos vemos obligados a escribir algo de código. 
