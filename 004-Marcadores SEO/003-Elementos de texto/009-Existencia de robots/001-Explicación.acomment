@@ -1,0 +1,11 @@
+ tal y como he comentado anteriormente, los buscadores disponen de una tropa de robots que, de forma automatizada, se encargan de ir de Web en web, revisando su contenido, y almacenándolo en su propia base de datos.
+
+En muchas ocasiones, los buscadores aplican la regla de que si tú les ayudas a hacer su trabajo, ellos te ayudarán a ti indexándote mejor.
+
+Por lo tanto, en muchas ocasiones, un robot que visita nuestra web, no tiene información suficiente como para saber exactamente qué páginas nos interesa que Bing, que otras páginas no nos interesa que indique, y de qué forma de reindexar nuestra página web.
+
+Especialmente en el caso de Google, se nos aconseja que introduzcamos un archivo de texto llamado robots .txt en la raíz de la página web en la cual estamos trabajando.
+
+Ese archivo deberá tener una información de base, para especificar si la página debe ser indexada, si no debe ser indexada, y en qué condiciones.
+
+Hay que decir que ese archivo no obliga al buscador a indexar la página de una forma o de otra, pero desde luego le ayuda a hacer su tarea.
