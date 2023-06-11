@@ -1,0 +1,15 @@
+ Y las páginas web, como documentos HTML, en un primer momento, no estaban concebidos para hacer programas informáticos independientes, interactivos, sino para hacer documentos de procesamiento de texto publicados y accesibles directamente en Internet a través de navegadores web.
+
+Sin embargo, a medida que iba avanzando la década de los 90, y va a quedando patente que el uso que estaban haciendo los usuarios, tanto los creadores como los consumidores de información web, y va más allá de publicar simples documentos.
+
+Quedó patente, por lo tanto, que los usuarios de mandaban que esos documentos tuvieran interactividad, y que, en definitiva, que fueran documentos vivos, programas informáticos reales, en los cuales los usuarios pudieran introducir información, el programa informático realizará algún tipo de proceso sobre esa información, y devolviera un resultado.
+
+Uno de los componentes esenciales. En aquel momento eran los formularios HTML, al igual que lo siguen siendo hoy.
+
+en aquel momento, en el cual, la velocidad de Internet era mucho menor de la velocidad que conocemos hoy, cada vez que enviamos un formulario, había un servidor que debía validar el contenido de ese formulario, y en el caso de que la validación fuera incorrecta, se nos devolvía de nuevo al formulario original, en muchas ocasiones, con los campos completamente vacíos.
+
+Si eso es algo que puede causar molestias a día de hoy, causado muchas más molestias en un momento en el cual cargar cada página web. Podría tardar desde unos pocos segundos hasta unos pocos minutos.
+
+Uno de los usos inicialmente previstos para el lenguaje de programación, JavaScript consistía en poder realizar validaciones de formularios dinámicas y en tiempo real, asegurando que los datos contenidos en el formulario estuvieran en el formato correcto, antes de enviarse al servidor.
+
+Por supuesto, el lenguaje JavaScript, a largo de los años, ha ido asumiendo responsabilidades, cada vez más grandes, hasta convertirse en el principal lenguaje de programación en la web, y en uno de los principales lenguajes de programación a nivel global. 
