@@ -1,0 +1,5 @@
+ en el caso de que tengamos el control directo sobre el código fuente de la página web que estamos indexando, simplemente deberemos crear un archivo llamado robot. Te XT en la carpeta a raíz del proyecto web, y dentro de ese archivo, deberemos introducir unas líneas como las que se muestran a continuación:
+
+Estas líneas, definirán como el buscador index a nuestra página web .
+
+Podemos encontrar, en Internet, información mucho más detallada acerca de todas las opciones de configuración que tiene este archivo de texto. 
