@@ -1,0 +1,5 @@
+ Este es uno de esos marcadores que es difícil de implementar desde el punto de vista de la programación, y que requiere, no, ya solo conocimientos de desarrollo en el Front, sino sobre todo conocimientos de desarrollo en el Baker.
+
+Por lo tanto, la implementación de este marcador consiste en la extracción del contenido del sitio web, a partir de la base de datos, y de la confección de un XML como el que se presenta a continuación, con dicho contenido.
+
+El XML, que se presenta a continuación, consiste en un sitio muy sencillo, pero evidentemente un sitio más complejo, con muchas entradas en el Los, daría lugar a un archivo XML mucho más extenso. 
