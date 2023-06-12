@@ -1,0 +1,6 @@
+ En las páginas web en las que estemos trabajando, simplemente, deberemos evitar introducir contenidos Flash.
+
+En el caso de que estemos trabajando con página realizadas con anterioridad, deberemos buscar una etiqueta como la siguiente:
+
+Y una vez que hayamos comprobado la función y la utilidad de esa etiqueta, deberemos reemplazarla por código escrito, el JavaScript, con el objetivo de que la página web sobre la que estemos trabajando no pierda su funcionalidad.
+
