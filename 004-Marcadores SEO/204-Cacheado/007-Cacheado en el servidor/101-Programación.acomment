@@ -1,0 +1,3 @@
+ En el caso de que estamos programando una web desde código, en todos aquellos archivos que utilicen el lenguaje PHP, podremos utilizar esta línea para activar el cateado de código en el lado del servidor:
+
+Y esta otra línea para desactivar el cacheado del código en el servidor 
