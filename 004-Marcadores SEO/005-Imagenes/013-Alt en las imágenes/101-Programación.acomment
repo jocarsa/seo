@@ -1,0 +1,3 @@
+ En el caso de la programación, para cada una de las etiquetas de imagen que introduzcamos dentro de la página web, tendremos que introducir una propiedad llamada alto, dentro de la cual introduciremos el texto alternativo de dicha imagen.
+
+Podemos encontrar un ejemplo de este texto alternativo en el siguiente bloque de código. 
