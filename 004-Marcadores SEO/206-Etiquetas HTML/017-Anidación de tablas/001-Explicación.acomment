@@ -1,0 +1,5 @@
+ en una época muy anterior, cuando el lenguaje utilizado visual CSS no tenía las amplias capacidades que tiene a día de hoy, y también cuando los usuarios todavía no estaban acostumbrados a esterilizar con el lenguaje CSS, en muchas ocasiones, se utilizaban las tablas, y las tablas anidadas, como método de conseguir matizar la información visual de una forma efectiva.
+
+Sin embargo, esa época ha quedado ya, muy atrás, y especialmente el machetazo en tablas se desaconseja cuando nuestra web debe ser visualizada a través de múltiples dispositivos, es lo que se conoce como diseño responsiva, ya que el diseño responsiva no es aplicable para el diseño de tablas anidadas.
+
+Por lo tanto, no es que esté prohibido realmente el uso de las tablas, y de las tablas animadas, dentro de la maquetación web, sino que lo que está prohibido es maqueta dar el diseño gráfico de la página web mediante tablas animadas. 
