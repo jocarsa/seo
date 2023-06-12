@@ -1,0 +1,5 @@
+ en el caso concreto de tener una página web programada desde cero, existe un módulo en apache, que es el módulo llamado Raid, que nos permite traducir unas URL a otras, es decir, permite al usuario introducir direcciones URL que no contengan ni nombres de archivo ni parámetros, y que el sistema las convierta a las URL reales que admitirá nuestro sistema.
+
+Sin embargo, la escritura de este archivo debe realizarse de forma automatizada, ya que, en el caso de Que nuestra página web tenga centenares de miles de enlaces, la escritura a mano de este archivo, sería altamente tediosa.
+
+Por lo tanto, tendríamos que crear un complemento, de la misma forma que ocurría con el archivo Said Makk, para convertir todas las entradas de la base de datos en un archivo de configuración de reescritura de apache. 
