@@ -1,0 +1,5 @@
+ cuando escribimos código JavaScript para nuestra página web, dicho código, en una gran cantidad de ocasiones, está desplegado, para que resulte fácilmente legible.
+
+Sin embargo, el código, al estar desplegado, contiene saltos de línea, contiene tabuladores, y, en definitiva, contiene caracteres que resultan de utilidad para que el ser humano pueda leer mejor el código, pero a la vez, gastan memoria, y por lo tanto, gastan ancho de banda.
+
+La verificación de código JavaScript consiste en la compresión de ese código, con el objetivo de eliminar todos aquellos caracteres que gastan memoria , de forma que no es útil, y, por tanto, optimizar la carga de estos archivos. 
