@@ -1,0 +1,9 @@
+ desde el punto de vista de la programación, por lo tanto, no existe una acción que podamos hacer para solucionar los enlaces caídos de nuestra web, simplemente, deberemos repasar esos enlaces, y tener cuidado de que sigan estando activos.
+
+Hay un par de alternativas que podemos considerar, sin embargo:
+
+Una de ellas es el uso de servicios en línea que nos permiten comprobar si tenemos enlaces rotos de forma automatizada en nuestro sitio web.
+
+Para ello, simplemente podemos entrar en Google, y buscar según el siguiente criterio Broken, link Checker
+
+Otra alternativa que tenemos, en el caso de que tengamos conocimientos de programación en el lenguaje Python, es construir un programa informático que se conecte a nuestra web, que repase esos enlaces, y que compruebe si están activos o no, pero en definitiva no es un bloque de programación que se haga dentro de la misma página web, sino es un programa informático independiente que tendríamos que desarrollar en el caso de que tengamos conocimientos de programación de lenguajes y aplicaciones de escritorio. 
