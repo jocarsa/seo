@@ -1,0 +1,5 @@
+ Y a veces, el radio, con el cual se muestran las imágenes en una página web, puede no ser exactamente el mismo radio que se muestra dentro de la página web.
+
+Por ejemplo, una imagen de 400 px por 400 px, tiene un ratio de uno es a uno, pero, sin embargo, cuando se muestra en la página web, quizás se puede mostrar en un tamaño de 400 × 300 píxeles.
+
+Por lo tanto, de esa forma habrá variado el ratio, a 4/3, y por lo tanto, no solo es importante trabajar el tamaño de la imagen, sino que debemos tener cuidado y no distorsionar el ratio de las imágenes que cargamos dentro de nuestra página web. 
