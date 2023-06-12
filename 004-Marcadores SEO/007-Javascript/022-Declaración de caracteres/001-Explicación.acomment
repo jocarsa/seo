@@ -1,0 +1,11 @@
+ para que una página web valide correctamente, debe tener dos elementos relacionados con el idioma de la propia página web:
+
+Por una parte, debe contener el idioma, el lenguaje humano, en el que está descrita esa página web:
+
+Y a continuación también debe tener una meta etiqueta en la cual se especifique el conjunto de caracteres que va a estar representado en esa web.
+
+En principio diríamos que el idioma nativo de las páginas web es el inglés, y por lo tanto, cualquier carácter que se separe del juego de caracteres inglés, requiere una codificación específica y adicional.
+
+Por ejemplo, en España, en la lengua española, y en las lenguas oficiales regionales, encontramos carácter instales, como por ejemplo la Ñ, acentos en las vocales, que pueden ser cerrados o abiertos, y caracteres tardes, por ejemplo, hace Sevilla.
+
+Por lo tanto, debemos introducir una etiqueta como la que se muestra a continuación, para que dichos caracteres se representa en correctamente dentro de una página web. 
