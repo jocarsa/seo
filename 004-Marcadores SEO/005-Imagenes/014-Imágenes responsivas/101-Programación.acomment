@@ -1,0 +1,5 @@
+ en el caso de estar trabajando con una página web programada en base al código, podemos utilizar el siguiente bloque de código para introducir imágenes de forma responsiva.
+
+Sin embargo, deberemos tener en cuenta que no solo estaremos en cierta forma multiplicando el trabajo de programación, sino que, desde luego, debemos realizar varias versiones de la misma imagen, a varias resoluciones.
+
+Esto podemos hacerlo, o bien mediante la edición manual de las imágenes, a través de herramientas como Photoshop, o bien mediante la emisión automática de las imágenes, generando María, resoluciones de forma automática, utilizando librería hasta LUIS, como por ejemplo Php EGB, aunque, desde luego sigue siendo necesario crear un script que realice esa automatización por nosotros. 
