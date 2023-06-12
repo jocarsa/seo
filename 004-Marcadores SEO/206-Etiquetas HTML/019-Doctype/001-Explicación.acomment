@@ -1,0 +1,7 @@
+ El tipo de documento ha indicado, desde siempre, y especialmente en la versión cuatro de HTML, las características concretas que el navegador podía encontrar dentro de ese documento.
+
+Específicamente en la versión cuatro de HTML, no existía un solo tipo de documento para indicar que se estaba trabajando con la versión cuatro, sino que, de hecho, existían tres tipos de Documentos diferentes para una misma versión.
+
+Desde HTML cinco, que se empezó a implantar en el año 2010, existe un único tipo de documento. En los primeros años, era importante especificar el tipo de documento que se estaba utilizando, con la finalidad de que el navegador pudiera saber el conjunto de reglas sintácticas que se iba a encontrar dentro de esa página web, en función de la versión de HTML que estuviera utilizando.
+
+Había de hoy no debería ya quedar, activa, ninguna página escrita en la versión cuatro de HTML, pero aún así, es importante, y obligatorio, introducir la declaración del tipo de documento, nada más abrir cualquier documento HTML 
