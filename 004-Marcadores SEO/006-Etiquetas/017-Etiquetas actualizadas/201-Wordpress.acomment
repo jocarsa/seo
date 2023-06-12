@@ -1,0 +1,5 @@
+ En el caso de estar trabajando con Wordpress, deberemos tener en cuenta que el propio núcleo de Wordpress favorece la utilización de etiquetas modernas, y no nos empuja a utilizar etiquetas desfasadas.
+
+Pero, sin embargo, cuando introducimos una plantilla personalizada dentro de Wordpress, deberemos tener en cuenta que el código de la plantilla depende de cada uno de los desarrolladores.
+
+Por lo tanto, es posible que existan plantillas que todavía tengan códigos desactualizados, con lo cual, si se da este caso, tendremos que revisar el código de la plantilla para corregir el código que estoy desactualizado, o bien instalar otra plantilla diferente. 
