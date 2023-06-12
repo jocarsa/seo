@@ -1,0 +1,1 @@
+ Desde el punto de vista del posicionamiento, es mejor que la rutas de cada una de las partes de nuestra web estén situadas en carpetas, o lo que en un momento dado podría aparecer, visto desde fuera carpetas, y, en definitiva, deberíamos intentar evitar siempre realizar llamadas a Archivos de Programacion, como por ejemplo, archivos PHP, e introducir parámetros dentro de la URL 
