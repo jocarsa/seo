@@ -2,3 +2,4 @@
 
 Por lo tanto, en el caso de que la plantilla que hayamos seleccionado presentes tiros en línea, no nos quedará más remedio que editar los archivos de la plantilla, para intentar eliminar estos estilos en línea, e intentar derivarlos a estilos externos.
 
+--<div class="wp-block-group alignwide is-content-justification-space-between is-layout-flex wp-container-4" style="padding-top:var(--wp--custom--spacing--small, 1.25rem);padding-bottom:var(--wp--custom--spacing--large, 8rem)">

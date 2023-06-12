@@ -9,3 +9,5 @@ En principio diríamos que el idioma nativo de las páginas web es el inglés, y
 Por ejemplo, en España, en la lengua española, y en las lenguas oficiales regionales, encontramos carácter instales, como por ejemplo la Ñ, acentos en las vocales, que pueden ser cerrados o abiertos, y caracteres tardes, por ejemplo, hace Sevilla.
 
 Por lo tanto, debemos introducir una etiqueta como la que se muestra a continuación, para que dichos caracteres se representa en correctamente dentro de una página web. 
+
+--<meta charset="utf-8">

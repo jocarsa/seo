@@ -8,6 +8,8 @@ CSS interno, mediante el cual, dentro del mismo documento, HTML, existe un bloqu
 
 CSS, en línea, mediante el cual, el estilo se pone dentro de las mismas etiquetas HTML.
 
+--<div id="corporativo" style="color:red;">
+
 de estas tres formas de incluir HTML, la tercera, el CSS en línea, es la menos recomendada, pero, sin embargo, durante el desarrollo de aplicaciones, especialmente cuando el código se hace a mano, es una forma de resolver problemas de los que suelen surgir continuamente.
 
 Por lo tanto, para mejorar el posicionamiento, debemos evitar haber incluido estilo CS en línea dentro de nuestro código 
