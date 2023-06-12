@@ -5,3 +5,5 @@ Los iconos favoritos, especialmente en la era de los directorios, permitían, a�
 Hoy en día, el icono favorito todavía se usa como imagen identificadora de la página web en la que estamos navegando, en cada una de las pestañas del navegador que estemos utilizando.
 
 Por lo tanto, por una parte, supuso está altamente recomendado, porque da una imagen bastante pobre, tener una imagen, una página web sin un icono favorito, y luego, por otra parte, también debemos añadirlo, porque su uso también está recomendado para que nuestra página web index. 
+
+--<link rel="icon" type="image/x-icon" href="favicon.png">

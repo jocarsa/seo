@@ -13,3 +13,6 @@ Idealmente, abre hemos utilizado una etiqueta de nivel 1, una etiqueta de nivel 
 Si por ejemplo tenemos una página web que no tiene ninguna etiqueta de nivel uno, eso será considerado un fallo.
 
 O por ejemplo si tenemos una página web que tiene una gran cantidad de etiquetas H1, eso también se considera un fallo, porque no le estamos dejando claro el navegador web ni tampoco al buscador, cuál es el orden jerárquico correcto dentro de nuestra página web. 
+
+--<h1>JOCARSA</h1>
+--<h2>Jose Vicente Carratala</h2>

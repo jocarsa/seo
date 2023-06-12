@@ -1,0 +1,10 @@
+@media only screen and (max-width: 900px) {
+    
+    video{
+        display:none;
+    }
+    #pancarta{
+        display:block;
+    }
+    
+}
