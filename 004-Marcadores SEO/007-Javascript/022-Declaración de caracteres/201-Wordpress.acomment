@@ -1,0 +1,6 @@
+ El Wordpress tenemos dos opciones:
+
+Por una parte podemos instalar uno de los muchos plugins que están disponibles para realizar esta tarea concreta, o bien podemos evitar el código de la plantilla con la cual estamos trabajando, y podemos añadir la misma línea que he apuntado en el apartado anterior, pero dentro de la cabeza del documento de Wordpress.
+
+En principio editar una plantilla de WordPress suele ser algo bastante complejo, pero para este caso concreto, añadir una sencilla línea de código es una tarea bastante abordable.
+
