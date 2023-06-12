@@ -1,0 +1,6 @@
+ en el caso de Wordpress, lo hemos preocuparnos, ya que es un entorno de desarrollo y un sistema de gestión de contenido que, desde su primera versión, empuja a los usuarios a maqueta visualmente las páginas web mediante el lenguaje CSS.
+
+Por lo tanto, yo nunca he visto ninguna plantilla en Wordpress, que esté desarrollada mediante tablas anidadas, y por lo tanto, en el caso de que exista alguna plantilla en ese estilo, sería muy infrecuente.
+
+Eso sí, cuando creemos código dentro de Wordpress, ya sea utilizando el constructor por defecto o algún otro plugin externo de construcción de contenido, deberemos evitar la tentación de utilizar el elemento de tabla, para mirar unas tablas dentro de otras, y para maqueta del contenido, dentro de las entradas o de las páginas de Wordpress.
+
