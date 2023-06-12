@@ -1,0 +1,5 @@
+ Cuando cargamos una imagen mediante código, deberemos tener en cuenta que, en gran medida, la forma visual, mediante la cual es la imagen se muestra finalmente en pantalla, depende del estilo CSS que introduzcamos.
+
+Así que, por lo tanto, deberíamos únicamente editar el estilo de anchura, o bien al estilo de altura, ya que, de esa forma, si evitamos la anchura, la altura hace establecer automáticamente, y si evitamos la altura, la anchura se establecerá automáticamente.
+
+En el caso de que especifiquemos manualmente la anchura y la altura del objeto, deberemos tener cuidado de que es anchura y altura no modifiquen radio original de la imagen. 
