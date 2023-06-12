@@ -1,0 +1,11 @@
+ Los CD N, o servidores espejo, son servidores distribuidos a lo largo del mundo que repiten una misma página web, y la sirven de forma geográfica.
+
+Si yo por ejemplo estoy en España, y publicó mi página web dentro de un servidor español, esa página se publicará, es decir, se servirá de forma prácticamente inmediata a cualquier visitante que acceda desde territorio español.
+
+Pero, sin embargo, aunque desde el punto de vista de la conectividad, la página será visible desde cualquier lugar del mundo conectado a Internet, sí que es cierto que el tiempo de conexión no será lo mismo en función de la distancia geográfica desde el cliente hasta el servidor.
+
+Para que no haya ningún retraso a la hora de servir, la página, en el caso de que tengamos un número de visitantes bastante global, podremos hacer uso, si así lo contratamos, de una serie de servidores espejo, donde, cuando un usuario visita a mi página web, no se le servirá el contenido desde el servidor principal, sino desde el espejo que geográficamente esté más próximo.
+
+Esta característica, que mejora el ceo, no tiene que ver realmente con la programación de la página web, sino que tiene que ver con los servicios que hayamos contratado dentro del proveedor de alojamiento.
+
+Por lo tanto, solo en el caso de que nuestros visitantes sean internacionales, deberemos considerar la opción de contratar los servidores espejo, repartidos algo del mundo, para ofrecer un mejor servicio a nuestros clientes. 
