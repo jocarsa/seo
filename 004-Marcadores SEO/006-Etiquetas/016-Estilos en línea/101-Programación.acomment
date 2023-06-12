@@ -1,0 +1,3 @@
+ cuando programamos una página directamente con código, nosotros somos los responsables de especificar cómo introducimos los estilos dentro del documento HTML.
+
+Por lo tanto, si estamos trabajando con una página escrita completamente con código, deberemos procurar no introducir estilos CSS en línea, sino, derivarlos, o bien a una hoja de estilo interna, o bien, preferentemente, a una hoja de estilo externa 
