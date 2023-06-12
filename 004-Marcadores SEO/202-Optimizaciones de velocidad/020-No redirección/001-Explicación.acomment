@@ -1,0 +1,9 @@
+ en ocasiones, compramos un dominio de Internet, pero realmente nuestra página está alojada en otro dominio.
+
+O bien, en otras ocasiones, disponemos de una red de dominios, para apuntar todos hacia una misma página web.
+
+La redirección es, en definitiva, se consideran como intentos de falsear la identidad de una página web real, y por tanto está desaconsejado usar re direcciones de dominio.
+
+En el caso de que queramos que varios dominios apunten hacia una misma página web, podemos configurar los registros de NS, para que esto ocurra de forma natural, y sin necesidad de realizar ninguna redirección.
+
+Por lo tanto, la configuración de la redirección, en una gran cantidad de ocasiones, depende de la configuración del dominio en el propio proveedor de alojamiento y dominio, y no ya tanto del código que tenga nuestra propia página web, ya estoy programada a mano, o realizada en Wordpress. 
