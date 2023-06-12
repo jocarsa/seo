@@ -1,0 +1,11 @@
+ El cacheado en el servidor, activo por defecto, desde la versión siete de Php, nos permite cachear todo el código que se encuentra en el lado del servidor, con el objetivo de acelerar los procesos de realizar peticiones a la base de datos y ofrecer resultados al usuario final.
+
+No hay nada que podamos hacer desde el punto de vista del lado del cliente para poder activar o desactivar este cacheado.
+
+Activarlo o desactivarlo depende de dos cosas, por una parte, depende de la configuración que tenga el propio servidor.
+
+Adicionalmente, a través del lenguaje PHP, también podemos activar o desactivar el cacheado de una web, en base a nuestra conveniencia.
+
+Cuando una web está en desarrollo, y por lo tanto, el código está cambiando constantemente, no es recomendable activar este cacheado, ya que muchas veces nos impide ver los últimos cambios que se han hecho sobre la web.
+
+En cambio, cuando una web ya está finalizada, y se lanza la producción, no se espera que el código cambia sustancialmente a largo del tiempo, y por lo tanto tendrá evidentes ventajas activar este cacheado en el lado del servidor. 
