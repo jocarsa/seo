@@ -1,0 +1,5 @@
+ HTML es un lenguaje vivo que, a ritmo lento, pero va cambiando a lo largo de los años.
+
+Por lo tanto, a través de estos años, han ido apareciendo nuevas etiquetas que permiten que HTML abarque nuevas funcionalidades, pero también hay etiquetas que han ido quedando desfasadas, y etiquetas que están en vías de ser declaradas como desactualizadas.
+
+Por lo tanto, deberemos mantener el código actualizado de nuestra web, para asegurar que no contiene etiquetas desactualizadas, tal vez, por ejemplo, las etiquetas HTML que permiten especificar que introducimos elementos tardes como por ejemplo negrita, cursiva, o_, ya qué tal es elementos de estilo, deben ser especificados mediante el lenguaje CSS 
