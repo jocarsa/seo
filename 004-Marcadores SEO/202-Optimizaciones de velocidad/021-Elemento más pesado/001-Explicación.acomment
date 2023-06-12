@@ -1,0 +1,15 @@
+ según la ley de Pareto, a veces, arreglar el 20 % de incidencia soluciona el 80 % de problemas, y a la vez, arreglar el 80 % de incidencia se soluciona el 20 % de problemas.
+
+En base a esta ley filosófica, en ocasiones, para poder optimizar el consumo de recursos, por parte de una web, podremos empezar por detectar cuál es el elemento más pesado, unos pocos elementos más pesados, y probablemente, y generalmente, si una página web tiene, por ejemplo, siete imágenes, las imágenes que más pesan suele ser, como mucho, cinco de ellas.
+
+Por lo tanto, arreglaremos las cosas de forma más rápida, modificando esas cinco imágenes, que modificando las 95 imágenes restantes.
+
+En este marcador, por lo tanto, me diremos cuál es el elemento más pesado de la web, y a partir de ahí, analizaremos si es optimizable.
+
+Este marcador no depende del código de la página web, ya sea programación personalizada, WordPress, sino que, dentro de cualquier navegador, como por ejemplo en Google Chrome, cuando accedemos al apartado de Network, podemos conocer cuál es el peso de cada uno de los elementos que se están cargando en la web.
+
+A partir de ahí, solo tendremos que filtrar, para buscar el elemento más pesado, que, en la gran mayoría de las de los casos, será una imagen o un vídeo, y una vez que lo hayamos localizado, tendremos que analizar si ese elemento es optimizable, y la gran mayoría de las veces, lo es.
+
+Una vez que hayamos realizado ese proceso, simplemente tendremos que volver a repetirlo, localizando el nuevo elemento más pesado, y optimizándolo.
+
+Repetir ese proceso en torno a cuatro o cinco veces, nos dará como resultado que llegará un momento en el cual la página no se podrá utilizar más, desde el punto de vista de los recursos multimedia utilizados, ya que hay que tener en cuenta que los recursos multimedia son, en la gran mayoría de las veces, los que se llevan la mayor parte del consumo de ancho de banda. 
