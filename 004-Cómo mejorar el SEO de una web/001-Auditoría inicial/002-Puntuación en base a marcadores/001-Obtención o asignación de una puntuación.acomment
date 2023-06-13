@@ -1,0 +1,7 @@
+ A partir de este punto, cuando se realiza una auditoría de un sitio web, debemos asignar una puntuación a cada uno de los marcadores que vamos a analizar.
+
+Teniendo en cuenta que desconocemos el peso exacto que Google les aplica a cada uno de estos marcadores, e incluso, dentro de ese desconocimiento, lo que sí que sabemos es que Google va a reajustando esos pesos a lo largo del tiempo, tenemos que definir un criterio propio y una metodología para establecer unos pesos para esos marcadores.
+
+una metodología, por lo tanto, que podemos utilizar, consiste en asignar un peso descendiente, aplicando el valor de 100 al primer marcador, y descendiendo un valor por cada uno de los marcadores que se encuentran a continuación.
+
+No es un método completamente preciso, pero nos puede dar una aproximación para realizar una valoración numérica del estado de la indexación de una página web en concreto. 
