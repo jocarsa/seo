@@ -1,7 +1,7 @@
-Y otro de los servicios característicos de Internet consiste en el protocolo de transferencia de archivos, llamado ftp, que permite a diferentes usuarios, compartir archivos de un tamaño mediano o grande.
+Y otro de los servicios característicos de Internet es el protocolo de transferencia de archivos, conocido como FTP, que permite a diferentes usuarios compartir archivos de tamaño mediano o grande.
 
-Aunque el correo electrónico, teóricamente, únicamente se debe usar para compartir mensajes, al final todos lo hemos utilizado alguna vez para enviar archivos de un tamaño pequeño a otro usuario de correo electrónico, o tal vez incluso a nosotros mismos.
+Aunque el correo electrónico teóricamente se debe usar únicamente para intercambiar mensajes, al final todos hemos utilizado alguna vez el correo electrónico para enviar archivos pequeños a otros usuarios o incluso a nosotros mismos.
 
-Sin embargo, la forma correcta de compartir archivos entre usuarios de Internet, consiste en enviarlos a través del protocolo de transferencia de archivos, mediante el cual, a través de un sistema que BB de la arquitectura de cliente y servidor, varios clientes de el protocolo de transferencia de archivos, se pueden conectar a un servidor, donde se alojan los archivos compartidos.
+Sin embargo, la forma adecuada de compartir archivos entre usuarios de Internet es a través del protocolo de transferencia de archivos, mediante el cual, utilizando una arquitectura de cliente y servidor, varios clientes de FTP pueden conectarse a un servidor donde se almacenan los archivos compartidos.
 
-De esta forma, este protocolo nos permite, desde hace décadas, compartir archivos, por ejemplo, entre empresas, para enviar descripciones de proyectos, resultados, y en definitiva, material informático, que ocupe una cierta cantidad de megabytes. 
+De esta manera, este protocolo nos ha permitido compartir archivos durante décadas, por ejemplo, entre empresas para enviar descripciones de proyectos, resultados y, en general, cualquier material informático que ocupe una cierta cantidad de megabytes.

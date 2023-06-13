@@ -1,11 +1,9 @@
-El investigador, Tim Berners-Lee, junto a su equipo, durante su estancia en el instituto Ferna, en Suiza, dió lugar a un nuevo protocolo para compartir información en Internet, consistente en colecciones de documentos enlazados entre sí mediante hiper vínculos.
+El investigador Tim Berners-Lee, junto a su equipo, durante su estancia en el instituto CERN en Suiza, dio origen a un nuevo protocolo para compartir información en Internet, el cual consistía en colecciones de documentos enlazados entre sí mediante hipervínculos. Esto es lo que hoy conocemos como la World Wide Web.
 
-Es decir, lo que hoy conocemos como la World Wide web.
+Al crear este nuevo protocolo para la infraestructura de Internet, él y su equipo desarrollaron tres componentes fundamentales:
 
-al crear este nuevo protocolo para la infraestructura de Internet, creo, junto a su equipo, tres componentes básicos, que son los siguientes:
+En primer lugar, un servidor web que se encargaría de alojar los documentos en Internet y estaría accesible desde cualquier ubicación.
 
-Por una parte, un servidor web, que se encargaría de alojar los documentos en Internet, estando accesible desde cualquier ubicación.
+A continuación, un cliente web, que es un software de escritorio instalado en los dispositivos de los usuarios, y que podría conectarse a uno o varios servidores web para solicitar y recibir documentos escritos en este lenguaje, y servidos a través de este protocolo.
 
-A continuación, un cliente web, que es un software de escritorio instalado en los dispositivos de los clientes, que se podría conectar a uno o a varios servidores web, para solicitar uno o varios documentos escritos en este lenguaje y servidos a través de este protocolo.
-
-Y, por último, un lenguaje de marcas, basado en los lenguajes de marcas existentes a lo largo de los años 90, llamado HTML, con un conjunto muy básico de reglas de sintaxis, con el objetivo de permitir a cualquier usuario escribir sus propias páginas web. 
+Y por último, un lenguaje de marcas llamado HTML, basado en los lenguajes de marcas existentes en los años 90, que proporcionaba un conjunto básico de reglas de sintaxis. El objetivo era permitir a cualquier usuario escribir sus propias páginas web.

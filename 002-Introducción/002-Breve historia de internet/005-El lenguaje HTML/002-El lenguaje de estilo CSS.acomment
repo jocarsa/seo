@@ -1,11 +1,11 @@
-El estándar inicial de creación de Documentos, HTML, prevé la creación de la estructura de un documento, y la inclusión del contenido dentro de esa estructura.
+El estándar inicial de creación de documentos, HTML, permitía la estructuración de un documento y la inclusión de contenido dentro de esa estructura.
 
-Sin embargo, más pronto que tarde, los usuarios empezaron a utilizar las páginas web, no solo para crear documentos, sino para crear páginas y sitios web, personales y corporativos, y estos sitios y estas páginas contenían un lenguaje visual que se apartaba de lo que hoy conocemos como un documento de procesador de textos.
+Sin embargo, rápidamente los usuarios comenzaron a utilizar las páginas web no solo para crear documentos, sino también para desarrollar sitios web personales y corporativos. Estos sitios y páginas web tenían una apariencia visual que difería de lo que hoy conocemos como un documento de procesador de textos.
 
-Pronto se hizo evidente. La necesidad de poder dotar de un estilo visual a las propias páginas web y, durante los primeros años, este estilo visual se indicaba a través de los propios elementos HTML.
+Pronto se hizo evidente la necesidad de poder aplicar estilos visuales a las páginas web, y durante los primeros años, estos estilos se indicaban a través de los propios elementos HTML.
 
-Unos pocos años después, a mediados de los años 90, se creó un segundo lenguaje, el lenguaje CSS, para dotar de estilo a los documentos estructurados con el lenguaje HTML.
+Unos años después, a mediados de los años 90, se creó un segundo lenguaje llamado CSS (Cascading Style Sheets) para proporcionar estilos a los documentos estructurados con HTML.
 
-Gracias al lenguaje CSS, podemos dotar de un estilo visual muy avanzado a los documentos consistentes en sitios y en páginas web.
+Gracias al lenguaje CSS, podemos aplicar estilos visuales avanzados a los documentos que conforman los sitios y las páginas web.
 
-Llegados a este punto, la web se va a transformando, apartándose del concepto inicial para el que había sido concebido, algo así como la creación de una biblioteca global y descentralizada, para crear un nuevo tipo de contenido en Internet, que no había sido visto antes, y que hablaba su propio lenguaje visual y estructural 
+En este punto, la web comenzó a transformarse, alejándose del concepto inicial de una biblioteca global y descentralizada, para convertirse en un nuevo tipo de contenido en Internet que poseía su propio lenguaje visual y estructural.
