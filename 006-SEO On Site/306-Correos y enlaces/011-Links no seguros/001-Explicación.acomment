@@ -1,0 +1,5 @@
+ si nuestra web está protegida por un certificado, ese S.L., y, en definitiva, todos aquellos datos que introduzca el usuario dentro de nuestra web, viajan de forma segura entre el cliente y el servidor, estaremos generando una confianza de cara a nuestros usuarios finales.
+
+Pero si en nuestra web figuran enlaces que no son seguros, y el usuario, confiando en nosotros, visitar estos enlaces, y dentro de esos enlaces externos a nuestra web, su información ya no viaja de forma segura, pero el usuario no se da cuenta de esta circunstancia, podremos comprometer la seguridad de sus datos, debido a la confianza que el usuario ha depositado en nosotros.
+
+para evitar este tipo de situaciones, deberemos evitar, si nuestra página está protegida por un certificado ese S.L., introducir enlaces externos a otras páginas que no tengan el mismo nivel de seguridad. 
