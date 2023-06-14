@@ -1,5 +1,5 @@
- Este es uno de esos marcadores que es difícil de implementar desde el punto de vista de la programación, y que requiere, no, ya solo conocimientos de desarrollo en el Front, sino sobre todo conocimientos de desarrollo en el Baker.
+Este es uno de esos marcadores que resulta difícil de implementar desde el punto de vista de la programación, ya que requiere no solo conocimientos de desarrollo en el Front-end, sino especialmente conocimientos de desarrollo en el Back-end.
 
-Por lo tanto, la implementación de este marcador consiste en la extracción del contenido del sitio web, a partir de la base de datos, y de la confección de un XML como el que se presenta a continuación, con dicho contenido.
+La implementación de este marcador implica extraer el contenido del sitio web desde la base de datos y crear un archivo XML, como se muestra a continuación, con dicho contenido.
 
-El XML, que se presenta a continuación, consiste en un sitio muy sencillo, pero evidentemente un sitio más complejo, con muchas entradas en el Los, daría lugar a un archivo XML mucho más extenso. 
+El siguiente XML es un ejemplo muy simple, pero es importante tener en cuenta que un sitio más complejo con numerosas entradas en el blog daría lugar a un archivo XML mucho más extenso.

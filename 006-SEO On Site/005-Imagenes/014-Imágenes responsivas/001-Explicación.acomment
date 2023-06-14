@@ -1,5 +1,5 @@
- en muchas ocasiones, ocurre que, en las páginas web, cargamos imágenes grandes que, luego, resultan ser escaladas para hacerlas más pequeñas en la página web real.
+En muchas ocasiones, sucede que cargamos imágenes grandes en las páginas web, pero luego se escalan para hacerlas más pequeñas en la página web real.
 
-Desde hace unos pocos años existe la posibilidad de introducir imágenes responsiva, es decir, para una misma imagen, podemos introducir varias versiones en esa imagen, a varias resoluciones, para que el navegador cargue la resolución correcta en base al tamaño que finalmente ocupe esa web esa imagen dentro de la página web.
+Desde hace unos años, existe la posibilidad de utilizar imágenes responsivas. Esto significa que para una misma imagen, podemos introducir varias versiones con distintas resoluciones. De esta manera, el navegador cargará la resolución adecuada según el tamaño en el que la imagen se mostrará finalmente en la página web.
 
-Por lo tanto, usar imágenes responsiva, a María resoluciones, mejorar el posicionamiento de nuestro proyecto. 
+Por lo tanto, el uso de imágenes responsivas, con múltiples resoluciones, mejora el posicionamiento de nuestro proyecto.

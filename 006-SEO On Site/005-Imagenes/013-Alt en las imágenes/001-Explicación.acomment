@@ -1,5 +1,5 @@
- en el lenguaje HTML se pretende que, cuando introducimos una imagen, en una etiqueta y N.G., esa etiqueta disponga de un texto alternativo, que proporcione un texto descriptivo acerca del contenido de la imagen.
+En el lenguaje HTML, se espera que al introducir una imagen dentro de una etiqueta <img>, dicha etiqueta incluya un atributo de texto alternativo que proporcione una descripción del contenido de la imagen.
 
-La introducción de textos alternativos en las imágenes es obligatoria para que el código valide correctamente, pero, además, es un factor también muy importante para que la web se posiciona correctamente en los buscadores.
+La inclusión de texto alternativo en las imágenes es obligatoria para que el código sea válido, pero también es un factor importante para el posicionamiento en los buscadores.
 
-Probable que con los años este parámetro de indexación baje de importancia, en la medida en la que los motores de búsqueda sean capaces de reducir el contenido de una imagen directamente a partir del contenido visual, pero a día de hoy, todavía es necesario que el usuario humano proporcione una descripción para cada imagen que publique dentro de esa página web. 
+Es posible que con el paso del tiempo, este parámetro de indexación disminuya en importancia a medida que los motores de búsqueda puedan interpretar el contenido visual de las imágenes. Sin embargo, en la actualidad, todavía es necesario que los usuarios proporcionen una descripción para cada imagen que se publique en la página web.

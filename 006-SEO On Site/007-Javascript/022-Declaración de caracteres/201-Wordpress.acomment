@@ -1,6 +1,7 @@
- El Wordpress tenemos dos opciones:
+En WordPress, tienes dos opciones para asegurarte de que los caracteres del idioma español se representen correctamente:
 
-Por una parte podemos instalar uno de los muchos plugins que están disponibles para realizar esta tarea concreta, o bien podemos evitar el código de la plantilla con la cual estamos trabajando, y podemos añadir la misma línea que he apuntado en el apartado anterior, pero dentro de la cabeza del documento de Wordpress.
+Instalar un plugin: Puedes elegir uno de los numerosos plugins disponibles que se encargan específicamente de esta tarea. Estos plugins te facilitarán la configuración del conjunto de caracteres adecuado para tu página web en WordPress.
 
-En principio editar una plantilla de WordPress suele ser algo bastante complejo, pero para este caso concreto, añadir una sencilla línea de código es una tarea bastante abordable.
+Editar la plantilla de WordPress: Si te sientes cómodo modificando el código de la plantilla que estás utilizando, puedes añadir la misma línea de código que mencionaste anteriormente (<meta charset="utf-8">) dentro de la etiqueta <head> del archivo de la plantilla de WordPress. Esta es una tarea relativamente sencilla y accesible, ya que solo implica agregar una línea de código.
 
+Si tienes experiencia en la edición de plantillas de WordPress, puedes optar por la segunda opción y añadir manualmente la línea de código en la plantilla. Sin embargo, es importante tener precaución al realizar cambios en el código de la plantilla y asegurarte de hacer una copia de seguridad antes de cualquier modificación.

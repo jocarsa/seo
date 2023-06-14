@@ -1,9 +1,7 @@
- A veces, los sitios web pueden estar formados a partir de cientos de páginas web, o en ocasiones, incluso de miles.
+A veces, los sitios web pueden estar compuestos por cientos o incluso miles de páginas web. Esto es especialmente cierto cuando el sitio web cuenta con un blog que tiene una gran cantidad de entradas.
 
-Esto es especialmente cierto cuando el sitio web dispone de un blog, y dicho blog tiene una gran cantidad de entradas.
+Al igual que en el apartado anterior, si obligamos a un motor de búsqueda a revisar manualmente cada una de las páginas de nuestro sitio web, estaremos sobrecargando el motor de búsqueda y esto no nos beneficiará en términos de puntuación.
 
-Al igual que ocurre con el apartado anterior, si forzamos a una araña a que tenga que revisar de forma manual todas y cada una de las páginas de nuestro sitio web, estaremos haciendo trabajar más al motor de búsqueda, y por lo tanto no nos puntuará positivamente.
+Sin embargo, si introducimos un archivo XML llamado "sitemap.xml" y dentro de ese archivo incluimos un listado correctamente formateado de todas las páginas de nuestro sitio web, cuando el motor de búsqueda llegue a nuestro sitio, simplemente tendrá que leer el índice de páginas incluido en ese archivo en lugar de revisar manualmente nuestra página web.
 
-Sí, por el contrario, introducimos un archivo XML llamado Saidman .xml, y dentro de ese archivo introducimos un listado correctamente formateado de todas las páginas que tiene nuestro sitio web, cuando la araña llega a nuestro sitio, en lugar de tener que revisar manualmente nuestra página web, simplemente tendrá que leer el listado de páginas incluido en ese archivo, que harán las veces de índice.
-
-De esa forma, estaremos simplificando la tarea del buscador, y a la vez, el buscador, nos lo premiará subiendo nuestra posición en los resultados de las búsquedas. 
+De esta manera, estaremos simplificando la tarea del motor de búsqueda y, a su vez, el motor de búsqueda nos premiará con una posición más alta en los resultados de búsqueda.

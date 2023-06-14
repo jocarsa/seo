@@ -1,7 +1,7 @@
- Los motores de búsqueda quieren que nuestras páginas sean los nodos de conexión de una red totalmente interconectadas, consistente en una nube de páginas web que alimenten de contenido a esa red.
+Los motores de búsqueda desean que nuestras páginas sean los nodos de conexión en una red completamente interconectada, formada por una nube de páginas web que alimenten de contenido a dicha red.
 
-Cuando creamos un enlace, en nuestra página, hacia otras páginas existentes en Internet, en muchas ocasiones no somos conscientes de que, en un futuro, esas páginas a las que hemos enlazado pueden dejar de estar operativas.
+Cuando creamos enlaces en nuestra página hacia otras páginas existentes en Internet, a menudo no somos conscientes de que en el futuro esas páginas a las que enlazamos podrían dejar de estar operativas.
 
-Cuando eso ocurre, nuestra página tiene enlaces rotos, lo que quiere decir que promete a los usuarios que les va a llevar a otros sitios web, pero esos sitios web ya no están operativos desde hace tiempo.
+Cuando esto ocurre, nuestra página tiene enlaces rotos, lo que significa que prometemos a los usuarios llevarlos a otros sitios web, pero esos sitios web ya no están disponibles desde hace tiempo.
 
-He líneas generales no hay ninguna actividad correctivas que podamos holgamos hacer desde nuestro código para hacer que es un enlaces vuelvan a estar operativos, lo único que podemos hacer es tener cuidado, revisar periódicamente los enlaces, e intentar que no tengamos enlaces caídos dentro de nuestra página web. 
+En general, no hay ninguna acción correctiva que podamos realizar en nuestro código para que esos enlaces vuelvan a estar operativos. Lo único que podemos hacer es tener cuidado, revisar periódicamente los enlaces e intentar evitar tener enlaces caídos dentro de nuestra página web.

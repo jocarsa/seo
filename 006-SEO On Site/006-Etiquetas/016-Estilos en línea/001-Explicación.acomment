@@ -1,15 +1,12 @@
- El lenguaje con el cual se trabaja el estilo visual de una web es el CSS.
+El lenguaje con el que se trabaja el estilo visual de una web es CSS.
 
-Existen tres formas de incluir CSS dentro de una web, que son los siguientes:
+Existen tres formas de incluir CSS dentro de una web, que son las siguientes:
 
-CSS externo, mediante la cual, la página de estilo es vinculada como una página externa con respecto a las páginas HTML.
+CSS externo: en este caso, la hoja de estilos se vincula como un archivo externo con respecto a las páginas HTML.
+CSS interno: aquí, el código CSS se incluye dentro del mismo documento HTML en un bloque de código separado.
+CSS en línea: en esta forma, el estilo se coloca directamente dentro de las etiquetas HTML.
+Ejemplo: <div id="corporativo" style="color:red;">
 
-CSS interno, mediante el cual, dentro del mismo documento, HTML, existe un bloque de código para el estilo CSS
+De estas tres formas de incluir CSS, la tercera, el CSS en línea, es la menos recomendada. Sin embargo, durante el desarrollo de aplicaciones, especialmente cuando el código se realiza manualmente, a veces se utiliza para solucionar problemas que surgen constantemente.
 
-CSS, en línea, mediante el cual, el estilo se pone dentro de las mismas etiquetas HTML.
-
---<div id="corporativo" style="color:red;">
-
-de estas tres formas de incluir HTML, la tercera, el CSS en línea, es la menos recomendada, pero, sin embargo, durante el desarrollo de aplicaciones, especialmente cuando el código se hace a mano, es una forma de resolver problemas de los que suelen surgir continuamente.
-
-Por lo tanto, para mejorar el posicionamiento, debemos evitar haber incluido estilo CS en línea dentro de nuestro código 
+Por lo tanto, para mejorar el posicionamiento, debemos evitar incluir estilos CSS en línea en nuestro código.

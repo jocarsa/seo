@@ -1,11 +1,11 @@
- Los CD N, o servidores espejo, son servidores distribuidos a lo largo del mundo que repiten una misma página web, y la sirven de forma geográfica.
+Correcto, los servidores espejo o CDN (Content Delivery Network) son servidores distribuidos en diferentes ubicaciones alrededor del mundo que almacenan copias de una página web y la sirven de manera geográfica.
 
-Si yo por ejemplo estoy en España, y publicó mi página web dentro de un servidor español, esa página se publicará, es decir, se servirá de forma prácticamente inmediata a cualquier visitante que acceda desde territorio español.
+Cuando publicas tu página web en un servidor español y alguien accede a ella desde España, la página se servirá prácticamente de forma inmediata debido a la cercanía geográfica entre el cliente y el servidor.
 
-Pero, sin embargo, aunque desde el punto de vista de la conectividad, la página será visible desde cualquier lugar del mundo conectado a Internet, sí que es cierto que el tiempo de conexión no será lo mismo en función de la distancia geográfica desde el cliente hasta el servidor.
+Sin embargo, es importante tener en cuenta que aunque la página sea accesible desde cualquier parte del mundo conectada a Internet, el tiempo de conexión puede variar en función de la distancia geográfica entre el cliente y el servidor.
 
-Para que no haya ningún retraso a la hora de servir, la página, en el caso de que tengamos un número de visitantes bastante global, podremos hacer uso, si así lo contratamos, de una serie de servidores espejo, donde, cuando un usuario visita a mi página web, no se le servirá el contenido desde el servidor principal, sino desde el espejo que geográficamente esté más próximo.
+Para evitar retrasos en la entrega de la página, especialmente si tienes un público global, puedes hacer uso de servidores espejo contratados como parte de una CDN. Cuando un usuario visita tu página web, el contenido se servirá desde el espejo más cercano geográficamente en lugar del servidor principal.
 
-Esta característica, que mejora el ceo, no tiene que ver realmente con la programación de la página web, sino que tiene que ver con los servicios que hayamos contratado dentro del proveedor de alojamiento.
+Esta característica, que mejora el rendimiento y la velocidad de carga de la página, no está directamente relacionada con la programación de la página web en sí, sino más bien con los servicios que hayas contratado con tu proveedor de alojamiento.
 
-Por lo tanto, solo en el caso de que nuestros visitantes sean internacionales, deberemos considerar la opción de contratar los servidores espejo, repartidos algo del mundo, para ofrecer un mejor servicio a nuestros clientes. 
+Por lo tanto, solo en el caso de que tus visitantes sean internacionales y quieras ofrecer un mejor servicio a tus clientes, deberías considerar la opción de contratar servidores espejo distribuidos en diferentes partes del mundo.

@@ -1,11 +1,11 @@
- tal y como he comentado anteriormente, los buscadores disponen de una tropa de robots que, de forma automatizada, se encargan de ir de Web en web, revisando su contenido, y almacenándolo en su propia base de datos.
+Como mencioné anteriormente, los buscadores cuentan con robots que, de manera automatizada, recorren las páginas web, revisan su contenido y lo almacenan en sus propias bases de datos.
 
-En muchas ocasiones, los buscadores aplican la regla de que si tú les ayudas a hacer su trabajo, ellos te ayudarán a ti indexándote mejor.
+En muchas ocasiones, los buscadores aplican la regla de que si les ayudas en su trabajo, ellos te ayudarán a ti indexándote de mejor manera.
 
-Por lo tanto, en muchas ocasiones, un robot que visita nuestra web, no tiene información suficiente como para saber exactamente qué páginas nos interesa que Bing, que otras páginas no nos interesa que indique, y de qué forma de reindexar nuestra página web.
+Por lo tanto, en ocasiones un robot que visita nuestra web no cuenta con suficiente información para saber exactamente qué páginas queremos que sean indexadas y cuáles no, y cómo queremos que se reindexe nuestra página web.
 
-Especialmente en el caso de Google, se nos aconseja que introduzcamos un archivo de texto llamado robots .txt en la raíz de la página web en la cual estamos trabajando.
+Especialmente en el caso de Google, se recomienda incluir un archivo de texto llamado "robots.txt" en la raíz de la página web en la que estamos trabajando.
 
-Ese archivo deberá tener una información de base, para especificar si la página debe ser indexada, si no debe ser indexada, y en qué condiciones.
+Este archivo debe contener información básica para especificar si la página debe ser indexada o no, y en qué condiciones.
 
-Hay que decir que ese archivo no obliga al buscador a indexar la página de una forma o de otra, pero desde luego le ayuda a hacer su tarea.
+Es importante destacar que este archivo no obliga al buscador a indexar la página de una forma u otra, pero definitivamente ayuda a facilitar su tarea.

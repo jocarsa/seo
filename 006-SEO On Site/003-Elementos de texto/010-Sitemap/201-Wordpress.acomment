@@ -1,5 +1,5 @@
- Esto es uno de los marcadores más fáciles de implementar en Wordpress, porque, de hecho, cualquier página web realizada en Wordpress, automáticamente cumple este marcador.
+Este es uno de los marcadores más fáciles de implementar en Wordpress, ya que cualquier página web creada en Wordpress cumple automáticamente con este marcador.
 
-Sin tener en cuenta las plantillas visuales, el propio núcleo de instalación de Wordpress automáticamente genera un archivo XML con todo el contenido de la página web, preparado para que sea indexado por los buscadores.
+Sin considerar las plantillas visuales, la instalación básica de Wordpress genera automáticamente un archivo XML con todo el contenido del sitio web, listo para ser indexado por los buscadores.
 
-Por lo tanto, si utilizamos Wordpress, no tenemos que hacer nada a este respecto, porque Wordpress lo hace automáticamente. 
+Por lo tanto, si utilizamos Wordpress, no es necesario hacer nada al respecto, ya que Wordpress lo hace automáticamente.

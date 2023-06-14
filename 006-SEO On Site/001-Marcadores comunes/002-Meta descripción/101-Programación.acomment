@@ -1,3 +1,3 @@
- En el caso de estar trabajando con una página realizada mediante programación, simplemente, en la cabeza del documento, deberemos introducir una etiqueta como la siguiente, mediante la cual especificaremos la descripción de nuestra página web. 
- 
- --<meta name="description" content="Jose Vicente Carratalá - Diseño 3D, desarrollo de aplicaciones informáticas a medida, y cursos personalizados a empresas">
+En el caso de estar trabajando con una página realizada mediante programación, simplemente debemos introducir una etiqueta en la sección <head> del documento para especificar la descripción de nuestra página web.
+
+--<meta name="description" content="Jose Vicente Carratalá - Diseño 3D, desarrollo de aplicaciones informáticas a medida, y cursos personalizados para empresas">--

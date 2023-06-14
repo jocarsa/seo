@@ -1,5 +1,9 @@
- Más allá del título, los motores de búsqueda necesitan proporcionemos, no descripción, lo más completa aparente posible, acerca del contenido que nuestra página web.
+Más allá del título, los motores de búsqueda necesitan que les proporcionemos una descripción lo más completa y precisa posible acerca del contenido de nuestra página web.
 
-Esto se consigue incluyendo una descripción en la cabeza de nuestra página web.
+Esto se logra incluyendo una etiqueta de descripción en la sección <head> de nuestra página web.
 
-Dicho descripción debe contener un párrafo, no especialmente intenso, en el cual se haga un resumen de lo que el usuario va a poder encontrar dentro de nuestro proyecto web. 
+Dicha descripción debe contener un párrafo conciso en el que se resuma lo que el usuario encontrará dentro de nuestro proyecto web. No es necesario que sea excesivamente extenso, pero sí debe brindar una idea clara de lo que ofrece nuestro sitio.
+
+
+
+

@@ -1,13 +1,17 @@
- este es uno de los marcadores que se puede llegar a complicar en el caso de que estemos trabajando con WordPress.
+Este es uno de los aspectos que puede llegar a complicarse cuando trabajamos con WordPress.
 
-La premisa principal de WordPress consiste en que el usuario administrador o creador no tenga que editar código, pero, a la vez, esto puede ser una vez una ventaja en muchos escenarios, pero en este caso concreto, en muchas ocasiones, se convierte en una desventaja.
+La premisa principal de WordPress es que los administradores o creadores de sitios web no tengan que editar código. Si bien esto puede ser una ventaja en muchos escenarios, en este caso particular a menudo se convierte en una desventaja.
 
-Cuando trabajamos con Wordpress, la distribución del contenido en la etiqueta, título, en la descripción, y especialmente en los titulares de la web, depende, en gran medida, de la plantilla que visual, que ya hemos escogido dentro de Wordpress.
+Cuando trabajamos con WordPress, la distribución del contenido en las etiquetas de título, descripción y, especialmente, los encabezados de la página web, depende en gran medida de la plantilla visual que hemos seleccionado dentro de WordPress.
 
-Si la plantilla que hemos escogido no tiene correctamente distribuidas las cabeceras algo de la página web, en ese caso tenemos dos opciones:
+Si la plantilla que hemos elegido no tiene una distribución adecuada de los encabezados de la página web, tenemos dos opciones:
 
-O bien podemos seleccionar una plantilla visual que refleje mejor la distribución de cabeceras, con lo traumático, que ello puede resultar, porque debemos escoger a la vez una plantilla que esté correctamente estructurada, pero también que estéticamente sea agradable
+Podemos seleccionar una plantilla visual que refleje mejor la distribución de los encabezados, pero esto puede resultar traumático ya que debemos elegir una plantilla que esté bien estructurada y también sea estéticamente agradable.
 
-O bien podemos modificar el código de la plantilla que hayamos seleccionado, con el objetivo de que podamos personalizar la distribución de cabeceras.
+Podemos modificar el código de la plantilla seleccionada para personalizar la distribución de los encabezados.
 
-Esto es desventajoso desde el punto de vista, mediante el cual perdemos la ventaja que consiste en utilizar, WordPress, consistente en no tener que escribir código, puesto que, de esta forma, finalmente, nos vemos obligados a escribir algo de código. 
+Esta situación es desventajosa desde el punto de vista en el que perdemos la ventaja de utilizar WordPress, que es la posibilidad de no tener que escribir código, ya que al final nos vemos obligados a escribir algo de código.
+
+
+
+

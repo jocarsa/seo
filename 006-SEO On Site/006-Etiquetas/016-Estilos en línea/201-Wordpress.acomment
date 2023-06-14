@@ -1,5 +1,5 @@
- en el caso de estar trabajando con Wordpress, la aparición de estilos en línea depende completamente de la plantilla visual que hayamos seleccionado ya ya hemos instalado.
+En el caso de trabajar con Wordpress, la presencia de estilos en línea dependerá completamente de la plantilla visual que hayamos seleccionado e instalado.
 
-Por lo tanto, en el caso de que la plantilla que hayamos seleccionado presentes tiros en línea, no nos quedará más remedio que editar los archivos de la plantilla, para intentar eliminar estos estilos en línea, e intentar derivarlos a estilos externos.
+Si la plantilla que hemos elegido incluye estilos en línea, deberemos editar los archivos de la plantilla para intentar eliminar estos estilos en línea y derivarlos hacia estilos externos.
 
---<div class="wp-block-group alignwide is-content-justification-space-between is-layout-flex wp-container-4" style="padding-top:var(--wp--custom--spacing--small, 1.25rem);padding-bottom:var(--wp--custom--spacing--large, 8rem)">
+<div class="wp-block-group alignwide is-content-justification-space-between is-layout-flex wp-container-4" style="padding-top:var(--wp--custom--spacing--small, 1.25rem);padding-bottom:var(--wp--custom--spacing--large, 8rem)">

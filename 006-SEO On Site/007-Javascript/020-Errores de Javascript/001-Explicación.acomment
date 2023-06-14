@@ -1,7 +1,7 @@
- JavaScript es el lenguaje de programación mediante el cual podemos introducir comportamientos interactivos dentro de cualquier página web.
+JavaScript es un lenguaje de programación que nos permite agregar interactividad a las páginas web.
 
-Como cualquier lenguaje de programación, en un momento dado, puede generar errores, o nosotros mismos podemos cometer errores al escribir con este lenguaje de programación.
+Al igual que cualquier otro lenguaje de programación, puede generar errores en determinado momento o podemos cometer errores al escribir el código.
 
-Por suerte, la gran mayoría de errores de programación no aparecen directamente en la página web que ve el usuario, pero sin embargo sí que aparecen en la consola de depuración.
+Afortunadamente, la mayoría de los errores de programación en JavaScript no se muestran directamente en la página web que ve el usuario, sino que se registran en la consola de depuración del navegador.
 
-Una web que contiene errores. Es una web descuidada, y por lo tanto, presentar errores en la programación penaliza al posicionamiento 
+Sin embargo, es importante destacar que una página web con errores puede considerarse descuidada y, en consecuencia, la presencia de errores en la programación puede afectar negativamente al posicionamiento de la página.

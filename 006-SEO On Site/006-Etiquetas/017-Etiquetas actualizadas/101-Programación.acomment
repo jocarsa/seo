@@ -1,3 +1,3 @@
- En el caso de que estemos desarrollando una página web mediante programación, especialmente en el caso de que esa página web haya sido desarrollada hace años, deberemos prestar especial atención a que no existan etiquetas que hayan quedado desfasadas dentro del lenguaje HTML.
+En el caso de estar desarrollando una página web mediante programación, especialmente si dicha página web fue creada hace años, es importante prestar especial atención para asegurarnos de que no hayan quedado etiquetas obsoletas dentro del lenguaje HTML.
 
-Si esto existe, deberemos reemplazar aquellas etiquetas que hayan quedado de pasadas, por sus contrapartidas actualizadas. 
+En caso de que existan etiquetas desactualizadas, debemos reemplazarlas por sus equivalentes actualizados.

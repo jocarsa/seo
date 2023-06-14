@@ -1,4 +1,5 @@
- La etiqueta de meta título es una de las etiquetas principales que deben existir dentro de cualquier página web.
+La etiqueta de título meta es una de las etiquetas principales que debe existir dentro de cualquier página web. Aparece en forma de una etiqueta llamada "Title" dentro de la sección <head> del código HTML de la página. Es obligatorio incluirlo para que el propio código de la página sea validado correctamente por el validador oficial del Consorcio de la World Wide Web.
 
-Aparece en forma de una etiqueta. Llamada Title, dentro de la cabeza de la web, y Suso es obligatorio, incluso para que el propio código de la web validez como correcto dentro del validador oficial del Consorcio de la World Wide web.
+
+
 

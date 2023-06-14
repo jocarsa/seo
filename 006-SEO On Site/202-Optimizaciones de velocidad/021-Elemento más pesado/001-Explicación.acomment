@@ -1,15 +1,9 @@
- según la ley de Pareto, a veces, arreglar el 20 % de incidencia soluciona el 80 % de problemas, y a la vez, arreglar el 80 % de incidencia se soluciona el 20 % de problemas.
+La Ley de Pareto, también conocida como el principio del 80/20, establece que el 20% de las causas produce el 80% de los resultados. Aplicando esta ley filosófica a la optimización de recursos en una página web, podemos identificar y solucionar los elementos más pesados para obtener mejoras significativas en el rendimiento.
 
-En base a esta ley filosófica, en ocasiones, para poder optimizar el consumo de recursos, por parte de una web, podremos empezar por detectar cuál es el elemento más pesado, unos pocos elementos más pesados, y probablemente, y generalmente, si una página web tiene, por ejemplo, siete imágenes, las imágenes que más pesan suele ser, como mucho, cinco de ellas.
+En muchos casos, al analizar una página web, podemos detectar que unos pocos elementos, como imágenes o vídeos, representan la mayor parte del peso total. En lugar de optimizar cada elemento individualmente, es más eficiente y rápido enfocarse en los elementos más pesados, que suelen ser solo unos pocos de ellos.
 
-Por lo tanto, arreglaremos las cosas de forma más rápida, modificando esas cinco imágenes, que modificando las 95 imágenes restantes.
+Para identificar el elemento más pesado de una web, podemos utilizar herramientas como el panel de Network en navegadores como Google Chrome. Allí podemos ver el peso de cada elemento cargado en la página. A partir de ese análisis, podemos filtrar y encontrar el elemento más pesado, que generalmente suele ser una imagen o un vídeo. Luego, debemos evaluar si ese elemento puede ser optimizado, lo cual es posible en la mayoría de los casos.
 
-En este marcador, por lo tanto, me diremos cuál es el elemento más pesado de la web, y a partir de ahí, analizaremos si es optimizable.
+Una vez que hemos optimizado ese elemento, repetimos el proceso buscando el siguiente elemento más pesado y optimizándolo. Repetir este proceso unas cuantas veces, generalmente unas cuatro o cinco veces, nos permitirá mejorar significativamente el rendimiento de la página web.
 
-Este marcador no depende del código de la página web, ya sea programación personalizada, WordPress, sino que, dentro de cualquier navegador, como por ejemplo en Google Chrome, cuando accedemos al apartado de Network, podemos conocer cuál es el peso de cada uno de los elementos que se están cargando en la web.
-
-A partir de ahí, solo tendremos que filtrar, para buscar el elemento más pesado, que, en la gran mayoría de las de los casos, será una imagen o un vídeo, y una vez que lo hayamos localizado, tendremos que analizar si ese elemento es optimizable, y la gran mayoría de las veces, lo es.
-
-Una vez que hayamos realizado ese proceso, simplemente tendremos que volver a repetirlo, localizando el nuevo elemento más pesado, y optimizándolo.
-
-Repetir ese proceso en torno a cuatro o cinco veces, nos dará como resultado que llegará un momento en el cual la página no se podrá utilizar más, desde el punto de vista de los recursos multimedia utilizados, ya que hay que tener en cuenta que los recursos multimedia son, en la gran mayoría de las veces, los que se llevan la mayor parte del consumo de ancho de banda. 
+Es importante tener en cuenta que los recursos multimedia, como imágenes y vídeos, suelen ser los que consumen la mayor parte del ancho de banda en una página web. Al optimizar estos elementos, se puede lograr una reducción considerable en el consumo de recursos y mejorar la experiencia de los usuarios en términos de velocidad de carga y rendimiento.

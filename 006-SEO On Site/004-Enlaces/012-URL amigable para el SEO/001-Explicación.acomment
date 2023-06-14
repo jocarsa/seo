@@ -1,5 +1,11 @@
- Desde el punto de vista del posicionamiento, es mejor que la rutas de cada una de las partes de nuestra web estén situadas en carpetas, o lo que en un momento dado podría aparecer, visto desde fuera carpetas, y, en definitiva, deberíamos intentar evitar siempre realizar llamadas a Archivos de Programacion, como por ejemplo, archivos PHP, e introducir parámetros dentro de la URL 
- 
- --https://jocarsa.com/libros.php
- 
- --https://jocarsa.com/producto.php?idproducto=OA==
+Desde el punto de vista del posicionamiento, es preferible que las rutas de cada una de las secciones de nuestra web estén organizadas en carpetas o, desde una perspectiva externa, parezcan carpetas. En definitiva, debemos evitar hacer llamadas directas a archivos de programación, como por ejemplo archivos PHP, y en su lugar, utilizar parámetros dentro de la URL.
+
+Ejemplo incorrecto: https://jocarsa.com/libros.php
+
+Ejemplo correcto: https://jocarsa.com/libros/
+
+Ejemplo incorrecto: https://jocarsa.com/producto.php?idproducto=OA==
+
+Ejemplo correcto: https://jocarsa.com/producto/OA==
+
+Utilizar una estructura de URL amigable y descriptiva contribuirá a mejorar el posicionamiento de nuestra página web.

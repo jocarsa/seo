@@ -1,7 +1,7 @@
- muchas herramientas de auditoría de palabras clave incluyen una utilidad que consiste en generar una nube de palabras.
+Muchas herramientas de auditoría de palabras clave incluyen una función que consiste en generar una nube de palabras.
 
-En esa nube, por una parte, se incluyen aquellas palabras que más se repiten en nuestra web, pero, además, el estilo visual de esas palabras, incluidas en la nube, desde el punto de vista de su tamaño o su cantidad de negrita, dependen de la cantidad, de veces que se repite esa palabra dentro de la web,
+En esta nube, por un lado, se incluyen las palabras que más se repiten en nuestra web. Además, el estilo visual de estas palabras en la nube, en términos de tamaño y negrita, depende de la frecuencia con la que aparecen en la web.
 
-Por lo tanto, aquellas palabras que más se repiten, aparecen más grandes o más marcadas, y aquellas palabras que se repite menos, aparecen más pequeños. 
+Por lo tanto, las palabras que se repiten con mayor frecuencia aparecen más grandes o resaltadas, mientras que las palabras menos repetidas aparecen más pequeñas.
 
-este marcador realmente no requiere la realización de ninguna acción concreta desde el punto de vista de la programación o desde el punto de vista de WordPress, simplemente es un tipo de visualización que nos permite comprobar, de forma rápida, que las palabras que más se repiten son aquellas que deseamos que se repitan, porque son aquellas que esperamos que definan el contenido de nuestra página web 
+Este marcador no requiere ninguna acción específica desde el punto de vista de la programación o de WordPress. Simplemente es una forma de visualización que nos permite comprobar rápidamente si las palabras que más se repiten son aquellas que queremos que se repitan, ya que son las que deseamos que definan el contenido de nuestra página web.

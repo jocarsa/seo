@@ -1,5 +1,5 @@
- En el caso de la programación, para cada una de las etiquetas de imagen que introduzcamos dentro de la página web, tendremos que introducir una propiedad llamada alto, dentro de la cual introduciremos el texto alternativo de dicha imagen.
+En programación, para cada etiqueta de imagen que incluyamos en la página web, debemos agregar un atributo llamado "alt" donde se especificará el texto alternativo de esa imagen.
 
-Podemos encontrar un ejemplo de este texto alternativo en el siguiente bloque de código. 
+Aquí tienes un ejemplo de este texto alternativo en el siguiente bloque de código:
 
 --<img src="img/jocarsa-josevicentecarratala.png" alt="Logo">

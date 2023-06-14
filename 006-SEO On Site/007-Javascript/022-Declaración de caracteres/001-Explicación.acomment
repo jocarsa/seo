@@ -1,13 +1,17 @@
- para que una página web valide correctamente, debe tener dos elementos relacionados con el idioma de la propia página web:
+Para que una página web sea válida correctamente, es importante tener en cuenta dos elementos relacionados con el idioma de la página:
 
-Por una parte, debe contener el idioma, el lenguaje humano, en el que está descrita esa página web:
+En primer lugar, se debe especificar el idioma humano en el que está escrita la página web.
 
-Y a continuación también debe tener una meta etiqueta en la cual se especifique el conjunto de caracteres que va a estar representado en esa web.
+A continuación, es necesario incluir una etiqueta meta que especifique el conjunto de caracteres que se utilizará en la página.
 
-En principio diríamos que el idioma nativo de las páginas web es el inglés, y por lo tanto, cualquier carácter que se separe del juego de caracteres inglés, requiere una codificación específica y adicional.
+Aunque el inglés es considerado el idioma nativo de las páginas web, cualquier carácter que difiera del conjunto de caracteres inglés requiere una codificación específica adicional.
 
-Por ejemplo, en España, en la lengua española, y en las lenguas oficiales regionales, encontramos carácter instales, como por ejemplo la Ñ, acentos en las vocales, que pueden ser cerrados o abiertos, y caracteres tardes, por ejemplo, hace Sevilla.
+Por ejemplo, en España, donde se utiliza el español y las lenguas oficiales regionales, se encuentran caracteres especiales como la "Ñ", acentos en las vocales (pueden ser abiertos o cerrados) y otros caracteres específicos, como el "ç" en palabras como "café".
 
-Por lo tanto, debemos introducir una etiqueta como la que se muestra a continuación, para que dichos caracteres se representa en correctamente dentro de una página web. 
+Por lo tanto, es importante incluir una etiqueta como la siguiente para asegurar que estos caracteres se representen correctamente en una página web:
 
---<meta charset="utf-8">
+```html
+<meta charset="utf-8">
+```
+
+Esta etiqueta especifica el conjunto de caracteres UTF-8, que es ampliamente utilizado y es capaz de representar una amplia gama de caracteres utilizados en varios idiomas.

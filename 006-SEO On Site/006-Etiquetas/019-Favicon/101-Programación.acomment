@@ -1,7 +1,7 @@
- en el caso de estar trabajando con una página web realizada mediante código, para introducir un icono favorito, veremos cómo realizar dos tareas.
+En el caso de estar trabajando con una página web realizada mediante código, veremos cómo realizar dos tareas para introducir un icono favorito.
 
-Por una parte, debemos tomar una imagen, que sea cuadrada, y cuyo número de píxeles, en horizontal y en vertical, estoy dentro de una potencia de dos, preferentemente, 16, 32,64, o 128 píxeles.
+Por un lado, debemos utilizar una imagen cuadrada que tenga un número de píxeles que sea una potencia de dos, preferiblemente 16, 32, 64 o 128 píxeles en horizontal y vertical.
 
-A continuación, deberemos guardar la imagen en formato ICO, para lo cual se recomienda especialmente un programa gratuito llamado Game.
+A continuación, debemos guardar la imagen en formato ICO. Para esto, se recomienda especialmente utilizar un programa gratuito llamado "Game".
 
-Por otra parte, debemos introducir la siguiente sencilla Líneas de código dentro de la cabecera de nuestra página web, que le permitirá al navegador conocer cuál es el icono favorito que se debe representar en la pestaña del navegador. 
+Por otro lado, debemos insertar las siguientes líneas de código sencillas en la cabecera de nuestra página web. Estas líneas permitirán al navegador reconocer cuál es el icono favorito que debe mostrar en la pestaña del navegador.

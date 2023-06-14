@@ -1,3 +1,5 @@
- muchas plantillas y plugins de WordPress incluyen código JavaScript, y ese código JavaScript, en ocasiones, puede presentar errores.
+Es cierto que muchas plantillas y plugins de WordPress incluyen código JavaScript, y en ocasiones ese código puede contener errores.
 
-Cuando esto sucede, no queda más remedio que entrar dentro del código JavaScript de la plantilla o del complemento, y busca la línea que produce el error, para intentar solucionarla, claro que la solución de estos errores pasa porque el usuario disponga de conocimientos en cuanto a Programacion en JavaScript. 
+Cuando nos encontramos con errores en el código JavaScript de una plantilla o plugin, es necesario revisar el código en busca de la línea específica que está causando el error, para intentar solucionarlo. Sin embargo, es importante destacar que la resolución de estos errores requiere conocimientos de programación en JavaScript por parte del usuario.
+
+Si no estamos familiarizados con la programación en JavaScript, puede resultar complicado solucionar estos errores por nuestra cuenta. En ese caso, es recomendable buscar ayuda de desarrolladores o expertos en WordPress que puedan ayudarnos a identificar y corregir los errores en el código JavaScript de la plantilla o plugin.
