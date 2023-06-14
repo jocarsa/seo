@@ -1,0 +1,20 @@
+ la velocidad de la carga en una página está definida, principalmente por dos parámetros, que son, el peso de la página, y la velocidad de transferencia.
+
+Encontraremos que existen otros parámetros que en un momento dado pueden afectar a la velocidad de la carga, pero podríamos decir perfectamente que estos dos que evolucionado son los más importantes.
+
+El tamaño de la página consiste en la suma, en bytes o en kilobytes, o incluso en megabytes, de los recursos que se transfieren cada vez que un usuario solicita consultar nuestra página web.
+
+Éstos recursos están formados, por una parte, por los archivos relacionados con la programación, fundamentalmente, HTML, CSS, y JavaScript.
+
+Por otra parte, la gran mayoría del espacio de transferencia acaba siendo usado por imágenes, vídeos, otros materiales de tipo multimedia.
+
+Como podemos comprobar en la captura realizada en este apartado, tenemos una serie de recursos que están siendo transmitidos cada vez que se carga una página web en concreto.
+
+Para el ejemplo que se muestra ilustrado, cada vez que un visitante recarga nuestra página, se transfieren 18,5 MB.
+
+esto es debido, en gran medida, aquellas imágenes que se están utilizando no es tan utilizadas, son demasiado grandes, y por lo tanto se está utilizando mucho más ancho de banda del que podría utilizarse, en el caso de que las imágenes se utilizarán.
+
+
+
+Por lo tanto, debemos mantener optimizado los recursos, tanto con respecto a la programación, con RUS como con respecto a los elementos multimedia, que utilizarán nuestras páginas web.
+
