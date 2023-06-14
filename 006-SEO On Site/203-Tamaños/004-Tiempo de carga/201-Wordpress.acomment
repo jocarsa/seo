@@ -1,0 +1,7 @@
+ en el caso de trabajar con Wordpress, debemos tener en cuenta que, en el estado actual de Wordpress, siendo que se ha convertido en un software muy completo con respecto a las características que ofrece al usuario, igualmente es bastante complejo desde el punto de vista de la programación, en el sentido de que intervienen muchos archivos PHP para componer la respuesta que se envía al cliente cada vez que un usuario visita nuestra web.
+
+Por lo tanto, si el núcleo de Wordpress ya tiene cierto peso en este sentido, este peso puede verse incrementado, en muchas ocasiones, con la instalación de según qué plantillas, y según qué plugins.
+
+Tal es esta cuestión, que para la instalación de ciertos plugins, y para que mínimamente funcionen, en ocasiones, es necesario actualizar el plan de alojamiento, para aumentar su potencia, y que tenga recursos suficientes como para poder servir correctamente una página web realizada en Wordpress.
+
+Y cuando esto ocurre, la optimización es compleja, puesto que es optimización requeriría, como mínimo, modificar el código del núcleo de Wordpress, modificar el código de una plantilla concreta, o modificar el código de los plugins que se están utilizando. 
