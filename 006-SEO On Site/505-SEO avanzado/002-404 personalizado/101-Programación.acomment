@@ -1,0 +1,8 @@
+ cuando estamos programando una página web desde cero, debemos ser conscientes, de la misma forma que ocurre con otros elementos del posicionamiento web, de que existe un archivo llamado Atles en la ruta del alojamiento web en el que tenemos nuestro sitio.
+
+Puede que no exista, y si ese archivo no existe, en la gran mayoría de ocasiones lo podemos crear nosotros mismos.
+
+En el caso de que ese archivo no exista, podremos introducir el siguiente bloque de código dentro de ese archivo, para que el servidor apache sea capaz de saber cuál es la página que debe mostrar en el caso de que la web solicitada no exista.
+
+De esta forma, con dos simples líneas de código, y un archivo personalizado, podremos personalizar el mensaje de error que se mostrar a los usuarios en ese caso, y podremos también mejorar un poco nuestro posicionamiento.
+
