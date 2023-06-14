@@ -1,3 +1,7 @@
+ si estamos creando una página web directamente desde código, podemos introducir la siguiente etiqueta, que se encarga de especificar cuál debe ser el tamaño de escala, al cual se debe representar la página web en los dispositivos móviles.
 
+Esta etiqueta es importante, ya que muchos dispositivos móviles intentan reinstalar, de forma automática, las páginas web a su propio tamaño y Marco, y en la gran mayoría de las veces, es TR, escalado automático, acaba resultando un poco eficiente.
+
+Por lo tanto, introducimos esta etiqueta para tomar el control sobre esa red escalado, y, como creadores, poder especificar cómo se va a ver la web en dispositivos móviles.
 
 --<meta name="viewport" content="width=device-width, initial-scale=1">
