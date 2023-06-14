@@ -1,0 +1,3 @@
+ en el caso de estar creando una web con WordPress, deberemos tener en cuenta que existen multitud de plugins en Wordpress, que gestionan precisamente el cacheo de Escrig.
+
+Deberemos tener en cuenta, eso sí, tal y como he comentado anteriormente, que únicamente será recomendable activar este tipo de plugins, cuando la página web haya dejado de sufrir cambios y esté publicada de forma permanente, deberemos evitar activarlo mientras que la página que estoy en desarrollo. 
