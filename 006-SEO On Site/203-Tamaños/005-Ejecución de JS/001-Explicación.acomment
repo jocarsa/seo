@@ -1,0 +1,7 @@
+ JavaScript es el lenguaje de programación mediante el cual se define el comportamiento interactivo de nuestras páginas web en el lado del cliente.
+
+Al ser un lenguaje de programación, en función de todo aquello que le hayamos instruido al programa para realizar, la ejecución de ese programa puede llevar un coste de procesamiento y un coste de uso de memoria RAM.
+
+Cuanto mayor sea el coste de tiempo de procesamiento y de memoria utilizada, especialmente en aquellos casos, donde el motor de búsqueda piense que el uso de sus recursos no está justificado, mayor será, también, la penalización en cuanto al posicionamiento de esa página web.
+
+Por lo tanto, en la medida de lo posible, deberemos actualizar los recursos utilizados por nuestros scripts en JavaScript, para que utilicen lo mínimo posible. 
