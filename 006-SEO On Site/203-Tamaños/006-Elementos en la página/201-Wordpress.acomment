@@ -1,0 +1,3 @@
+ en el caso de estar generando una página con WordPress, el número de elementos dependerá, en gran medida, del núcleo de Wordpress, de la plantilla que hayamos seleccionado, y de los plugins que tengamos activos.
+
+Por ese motivo, será difícil optimizar el número de archivos, en el caso de que utilicemos una plantilla y varios plugins, puesto que, para poder optimizarlos, tendríamos que entrar individualmente en el código de cada uno de estos elementos, lo cual, en ocasiones, puede resultar complejo, ya que cada plantilla y cada plugin ha sido programados por un usuario diferente 

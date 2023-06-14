@@ -1,0 +1,7 @@
+ en ocasiones, dependiendo de la configuración del servidor, y dependiendo también de la programación de nuestra aplicación, los usuarios podrán navegar por dentro de nuestros directorios, si simplemente interceptan las rutas, desde la cual, desde las cuales cargamos imágenes, vídeos, archivos, JavaScript, estilos, CSS.
+
+Si el servidor está correctamente configurado, se le denegar al usuario la navegación a través de las carpetas, y siempre que intente navegar a través de una carpeta, simplemente aparecerá un mensaje de error personalizado.
+
+Es importante que el servidor bloqueen la navegación por los directorios, ya que, en caso contrario, podría producirse una brecha de seguridad, ya que cualquier usuario externo podría haber, fácilmente, la estructura de archivos y de directorios de nuestra aplicación, habiendo, de dado, de esta forma, un paso delante para poder a quedar nuestra web y perjudicarnos, tanto nosotros como a nuestros usuarios.
+
+Será importante, por lo tanto, asegurarse de que nuestro servidor tiene bloqueada la navegación a través de los directorios. 

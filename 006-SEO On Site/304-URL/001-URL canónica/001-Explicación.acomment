@@ -1,0 +1,17 @@
+ algunos elementos de posicionamiento no dependen estrictamente de la programación del sitio web, sino que dependen de otros factores externos cales, como, por ejemplo, el servidor.
+
+Al final nuestro sitio web o nuestra aplicación están alojados en un servidor, y ese servidor tiene una serie de características, que pueden ayudar, o incluso pueden entorpecer al posicionamiento de la web.
+
+En cuanto a la URL, es decir, en cuanto a la dirección de la web, en ocasiones, pueden existir varias versiones de esa dirección, lo cual puede afectar al posicionamiento.
+
+Por ejemplo, en el caso concreto de mi web, puede encontrarse en:
+
+Https://www.jocarsa.com.com
+
+O también puede encontrarse en:
+
+Https://jocarsa.com.com
+
+Aunque las dos direcciones llevan realmente al mismo servidor, desde el punto de vista de la indexación son dos rutas completamente diferentes, y esto puede perjudicar al posicionamiento de nuestra página web.
+
+Por lo tanto, tanto, desde el punto de vista de la configuración del servidor, como desde el punto de vista de la configuración de la rutas de los archivos dentro de nuestro propio código, debemos siempre especificar cuál es la dirección canónica, para que esa sea la única que se índice, y no cause una duplicidad con la otra dirección alternativa. 

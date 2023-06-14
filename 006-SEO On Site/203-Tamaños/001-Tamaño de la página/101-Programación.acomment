@@ -1,0 +1,4 @@
+ en el caso de estar creando una página web mediante programación directa, tenemos un control mucho más estricto y preciso acerca de los archivos que van a ser transmitidos desde el servidor hasta el cliente, así como de los recursos multimedia que van a ser utilizados.
+
+Por lo tanto, podemos controlar de forma manual estos recursos, para asegurarnos de que el consumo de ancho de banda es el mínimo posible.
+

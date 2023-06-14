@@ -1,0 +1,4 @@
+ En el caso de estar trabajando con Wordpress, la optimización de los recursos que se descargan desde el servidor hasta el cliente, puede ser un tema bastante más complejo, ya que el conjunto de archivos, JavaScript, CSS, y HTML, junto con algunas imágenes pertenecientes a la propia maquetación de la plantilla visual, dependen, por una parte, del núcleo de Wordpress, y por otra parte de la plantilla que tengamos instalada.
+
+Y si estos archivos pesan mucho, su optimización es difícil, a menos que instalemos plugins que nos permitan comprimir la información.
+

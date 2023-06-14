@@ -1,0 +1,7 @@
+ La gran mayoría de navegadores web son capaces de mantener los archivos JavaScript en caché, siempre que la configuración HTML de la página web, así se lo indique.
+
+Mediante el cacheado de archivos, podemos indicarle al navegador que guarde los scripts programados en Java script dentro de la memoria del navegador para que, cuando el mismo usuario visitas de forma recurrente, nuestra web, no tenga que volver a cargar los archivos Housekeeper del servidor.
+
+Deberemos tener en cuenta que esta modalidad de cateo será únicamente beneficiosa en el caso de que sea usada, cuando la página web haya dejado de sufrir cambios, y este en producción.
+
+Cuando una página en está en pleno proceso de desarrollo, y por lo tanto la programación de la página puede María REVILLA, el día, no es, en absoluto, recomendable realizar un cacho de recursos, entre ellos, los recursos de JavaScript. 

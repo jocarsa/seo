@@ -1,0 +1,7 @@
+ Cada vez que cargamos una página web, lo que nuestro usuario percibe como 1 U, es decir, un sitio web que aparece en su pantalla, realmente consiste en la confección de muchos elementos separados, no solo los archivos que contienen la programación, sino, en ocasiones, una cantidad que puede llegar a ser grande de archivos, multimedia, especialmente imágenes.
+
+Como en muchos otros aspectos de la informática, transferir un archivo de 100 MB, no cuesta lo mismo que transferir 100 archivos de un mega, ya que, para cada uno de los archivos que se transfieren, tiene que haber una conexión, una negociación, y una transferencia.
+
+Por lo tanto, el tiempo que tarda una puede transferirse no solo depende de lo que ocupan la suma de sus elementos, sino también del propio número de elementos, dónde, cuantos menos elementos tengamos, menor será el tiempo de transferencia asociado a los tiempos de conexión.
+
+Por lo tanto, deberemos intentar que nuestra web contenga el mínimo número posible de elementos a transferir. 

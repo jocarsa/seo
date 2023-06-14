@@ -1,0 +1,3 @@
+ en el caso de estar trabajando con una web generada en Bur Press, existen una gran cantidad de plugins que nos permiten activar la compresión en el lado del servidor, siempre que el servidor soporte ese tipo de compresión.
+
+Simplemente deberemos buscar en el repositorio de plugins, alguno de los que permiten activar esta función, instalarlo, y activarlo. 

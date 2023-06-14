@@ -1,0 +1,5 @@
+ en el caso de estar creando una página Miriam de Wordpress, deberemos tener en cuenta que, muchas de las plantillas, y muchos de los plugins, que estemos utilizando, llevarán código JavaScript incorporado.
+
+En el caso de que el código JavaScript de las plantillas o de los plugins, cause penalización en el rendimiento debido a los recursos utilizados, deberemos evitar el código de esos recursos, de forma manual, para reducir los recursos utilizados.
+
+Esta tarea puede ser compleja en ocasiones, puesto que, de esa forma, controlamos en menor medida, la construcción de esos scripts, puesto que han sido creados por personas diferentes a nosotros. 

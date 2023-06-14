@@ -1,0 +1,9 @@
+ en ocasiones, el contenido de una página web está compuesto, no solo por elementos multimedia o de programación que provienen de ese mismo servidor, sino por otros elementos que se pueden cargar, de forma dinámica, desde otros servidores.
+
+Muchas veces esto ocurre con librerías JavaScript o librerías CSS, que esté utilizando nuestra página web.
+
+Cuando eso ocurre, en el caso de que, por ejemplo, nuestra web está cargando a través de un certificado ese S.L., pero alguna de las librerías está siendo cargada mediante una ruta que no tenga ese tipo de certificado, en ese caso es cuando estamos cargando contenido mixto.
+
+En seguridad informática, solo decir sexo, sistema está bien seguro como la más insegura de sus patas, con lo cual, no importa que nuestro sistema se esté cargando a través de un certificado ese S.L., porque si hay uno de nuestros componentes que es inseguro, al final podrá podrá producirse una fuga de datos o un ataque por parte de un usuario malicioso.
+
+Por lo tanto, mediante la correcta carga de enlaces a través de protocolos seguros, debemos asegurarnos de que no presentamos contenido mixto dentro de nuestra página web. 

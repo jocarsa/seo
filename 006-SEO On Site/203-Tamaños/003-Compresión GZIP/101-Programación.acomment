@@ -1,0 +1,4 @@
+ En el caso de estar trabajando con una web programada desde cero, deberemos comprobar que la instalación de Php en nuestro servidor soporta la instrucción de compresión que se muestra continuación.
+
+En el caso de que realmente la soporte, deberemos interceptar todas aquellas salidas por pantalla, y someterlas a la compresión mediante el algoritmo Jefe.
+

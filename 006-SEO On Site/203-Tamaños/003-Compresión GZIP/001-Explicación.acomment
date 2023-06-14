@@ -1,0 +1,11 @@
+ Algunos servidores de alojamiento web permiten comprimir la información que se envía desde el servidor hasta el cliente.
+
+Si nuestro alojamiento soporta esta característica, quizás nos pueda interesar contratarla, siempre que entendamos bien las ventajas y las desventajas que ellos puede conllevar.
+
+Cuando solicitamos comprimir la información que se transmite al cliente, es cierto que esa información, en la medida de lo posible, se comprime, y por lo tanto, el tiempo de descarga de la página web en el cliente disminuye, pero por otra parte, debemos tener en cuenta también que eso se realiza a coste de un proceso en el lado del servidor, de compresión, que tiene un impacto en el rendimiento del servidor y de la página web.
+
+Por lo tanto, si el servidor que hemos contratado no tiene mucha potencia, es posible que comprimir la información lleve una penalización en cuanto al rendimiento, que se puede traducir en el tiempo que tarda en cargar y en servirse la página.
+
+Por lo tanto, en primer lugar, deberemos comprobar el tipo de alojamiento que hemos contratado, y deberemos realizar algún tipo de prueba para comprobar la viabilidad de activar esta función.
+
+Por otra parte, también hay que tener en cuenta que, en muchas ocasiones, la inmensa mayoría del tamaño descargado a través de una conexión entre servidor y cliente, es el contenido multimedia, principalmente formado por las imágenes, y dicho contenido multimedia, no sufre, apenas optimización al aplicarle compresión, con lo cual, en el caso de que esta sea la circunstancia, estaríamos aplicando una penalización de rendimiento sobre el servidor, sin obtener realmente una mejora en los datos transmitidos. 

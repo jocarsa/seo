@@ -1,0 +1,8 @@
+ El cacheo de Archivos TSS cumplen exactamente las mismas características que el cacheo de Archivos JavaScript.
+
+Consiste en guardar, en el navegador, de forma temporal, todos aquellos archivos que gestionen el estilo de una página web.
+
+La forma de implementarlo, las ventajas, y las desventajas, son las mismas, tanto en el caso del código de una página web desarrollada desde cero, como en el caso de una página web en Wordpress, con respecto a todo aquello que se ha explicado en el apartado anterior, con respecto al Castelló de Archivos JavaScript.
+
+Por otra parte, también es importante, al igual que en el apartado anterior, evitar guardar archivos CSS, mientras que la página web está en desarrollo, ya que esta metodología de GUARDADO del archivos en el navegador, únicamente debe activarse cuando la web está terminada y lanzada a producción.
+

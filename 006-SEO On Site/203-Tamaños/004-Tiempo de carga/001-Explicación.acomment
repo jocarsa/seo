@@ -1,0 +1,11 @@
+ El tiempo de carga, por lo tanto, depende, por una parte, de los recursos que se estén transmitiendo, tal y como se ha comentado anteriormente, pero también depende de otros factores estables como por ejemplo el ancho de banda del que disponga el servidor.
+
+Medir la velocidad de carga es muy complejo porque depende, adicionalmente, de otros muchos factores.
+
+Dentro de cualquier topología de red, cuando solicitamos una página web a un servidor que puede estar, en ocasiones, a miles de kilómetros, la velocidad final a la cual nos llega la página web, depende de cada uno de esos tramos individuales que hay desde el servidor donde está alojada la página web, hasta nuestro ordenador.
+
+Depende también, por supuesto, del tamaño de los recursos a transmitir.
+
+Y depende, incluso, de la potencia del servidor contratado, porque, en ocasiones, en base a esta potencia, desde que el servidor le llega la señal de que debe servir una página web, hasta que la confecciona, y la envía, existe un periodo de tiempo que depende principalmente de dos factores:
+
+Por una parte, la propia potencia contratada, y, por otra parte, la complejidad de la programación dinámica de la página web, que influye en el tiempo que tarda el servidor en confeccionar la respuesta que se envía hasta el cliente 
