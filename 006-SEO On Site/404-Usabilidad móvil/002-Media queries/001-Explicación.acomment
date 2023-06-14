@@ -1,0 +1,6 @@
+ para que un sitio web se visualice correctamente dentro de un dispositivo móvil, no solo es suficiente introducir una etiqueta HTML, que indique la escala del visor, sino que, además, también tenemos que establecer estilos CSS específicos para esos dispositivos móviles.
+
+Para ello, por lo tanto, nuestro estilo CSS debe contar con una serie de etiquetas especiales que se encargan de especificar los estilos que se aplicarán para cada uno de los rangos de altura y de anchura.
+
+Es decir, estos rangos nos permiten especificar estilos concretos para tamaños específicos de dispositivos, pudiendo personalizar los tamaños que encontraremos en nuestros dispositivos móviles.
+
