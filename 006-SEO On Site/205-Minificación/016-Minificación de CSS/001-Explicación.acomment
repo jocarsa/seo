@@ -1,0 +1,3 @@
+
+Al igual que ocurre con la mini fica Zion de Archivos JavaScript, podemos también vinificar archivos CSS, con el objetivo de hacer los más pequeños, eliminando saltos de línea y tabulaciones innecesarias, para que el archivo ocupen menos kilobytes, y se transfiera de forma más rápida desde el servidor hasta el cliente.
+
