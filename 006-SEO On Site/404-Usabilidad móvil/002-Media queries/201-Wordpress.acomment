@@ -1,0 +1,5 @@
+ en el caso de estar trabajando con Wordpress, haremos seleccionado una plantilla para nuestro sitio web, o bien de las plantillas que vienen por defecto, o bien las plantillas que pueden instalarse desde el repositorio oficial.
+
+En tal caso, deberemos asegurarnos de que dicha plantilla tiene la capacidad de incluir media queréis, para adaptar su diseño a los dispositivos móviles.
+
+Si bien es cierto que la gran mayoría de plantillas que podemos encontrar en el mercado ya vienen preparadas para ser adaptadas a teléfonos móviles, en el caso de que nuestra plantilla no se adapte correctamente, tendremos que modificar nosotros mismos el estilo, lo cual podrá resultar difícil, desde el punto de vista en el que no conocemos realmente la estructura HTML de esa plantilla, y evidentemente, trabajar al estilo de una página web, requiere conocer la estructura de ella misma. 
