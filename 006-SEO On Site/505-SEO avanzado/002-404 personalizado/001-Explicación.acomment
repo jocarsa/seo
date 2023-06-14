@@ -1,0 +1,8 @@
+ cuando navegamos dentro de una web, es posible que, en ocasiones, debido a que, por ejemplo, encontremos un enlace muerto, o debido a que algún usuario introduzca manualmente una dirección incorrecta de nuestra web, se solicite una página que realmente no exista.
+
+Cuando eso ocurre, pueden producirse varios resultados.
+
+Por una parte puede que no se vea nada en la web, por otra parte, puede que se cargue por accidente, otra página, o quizás el proveedor nos ofrezca una página automática, al no haber encontrado la página real, o bien, nosotros podemos crear una página 404 personalizada.
+
+La página 404 es lo que se mostrará cuando el usuario ha solicitado una página que no existe, y, por lo tanto, de esta forma, tendremos la oportunidad de lanzarle un mensaje personalizado para ese usuario.
+
