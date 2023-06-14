@@ -1,0 +1,4 @@
+ En el caso de Wordpress, no debemos preocuparnos desde el punto de vista en el que el propio núcleo de Wordpress lleva incorporado el soporte para mostrar una página 404 personalizada cuando el contenido solicitado no existe.
+
+Por lo tanto, no será necesario ni siquiera instalar ningún tipo de complemento, porque la instalación de Wordpress por defecto ya es capaz de gestionar ese comportamiento.
+
