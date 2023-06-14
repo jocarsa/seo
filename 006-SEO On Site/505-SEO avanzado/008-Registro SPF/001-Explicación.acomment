@@ -1,0 +1,7 @@
+ Los registros FPF, o Sender policía Freiburg, son una serie de registros que se encargan de especificar desde qué direcciones IP se puede enviar correo. Es un dominio de Internet concreto.
+
+Este registro existe para evitar los ataques de Fishing, para evitar que cualquier otra persona pueda enviar correos, fraudulentos en nuestro nombre.
+
+Disponer de este tipo de registros activos para nuestro dominio. Permite que el propio dominio gane en autoridad y confianza, y eso se evalúa correctamente desde el punto de vista del posicionamiento.
+
+Debemos tener en cuenta que la configuración del registro SP F no se realiza en la programación de la página web, sino que se configura desde el panel de control del alojamiento, que tengamos contratado para albergar nuestro sitio web. 
