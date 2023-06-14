@@ -1,0 +1,4 @@
+ si estamos trabajando una web desde el punto de vista de la programación pura, dentro del estilo CSS de esa página web, podemos introducir media kuis para especificar cuál es el cual es el estilo que se aplicará a la versión móvil de la página web, y a la versión estándar.
+
+Aunque en ocasiones eso requiere realizar un trabajo que prácticamente consiste en duplicar el estilo, sin embargo, como sabemos, conocedores de la estructura HTML, porque la habremos creado nosotros, al final no es un trabajo tan arduo cómo puedo aparecer.
+
